@@ -1,0 +1,479 @@
+how do you deal with configuration files in source control?
+not showing dialog when opening file in acrobat pro using applescript
+mod_rewrite to alias one file suffix type to another
+can i copy files to a network place from a script or the command line?
+oracle - what tns names file am i using?
+generation of designer file failed
+how do i get the assembler output from a c file in vs2005
+nmake, visualstudio, and .mak files
+is there any way to sticky a file in subversion
+can you modify text files when committing to subversion?
+testing https files with mamp
+apache serving files that should not be served.
+best way to rotate apache log files
+how do i get the click once publish version to match the assemblyinfo.cs file version.
+how do you retrieve the commit message and file list for a particular revision?
+does anyone know the shortcut to open a file within your solution
+creating mp4/m4a files with chapter marks
+tool to view the contents of the solution user options file (.suo)
+rehsarper 4.0 - renaming a class does not rename the file
+can you "ignore" a file in perforce?
+prevent file casing problems in subversion
+how to convert apache .htaccess files into lighttpd rules?
+updates to wordpress theme template/stylesheet are not reflected when a file is edited
+releasing under license: do all files need the copyright statment?
+grabbing every 4th file
+how do i tell subversion to treat a file as a binary file?
+how can i pre-compress files with mod_deflate in apache 2.x?
+is it worth the effort to move from a hand crafted hibernate mapping file to annotaions?
+timestamp in control file
+is there a tool to convert a .vim colour definition file to use in vs.net 2008
+how to switch back to a previous version of a file without deleting its subsequent revisions?
+sqlplus settings to generate tab-separated data file
+how can i remove .ds_store files from a git repository?
+how to create a zip file in the same format as the finder's "compress" menu item?
+user interface for creating oracle sql loader control file
+how can i change drupal's default menu strings without hacking the core files or using the string override plugin?
+how to compare files with same names in two different directories using a shell script
+checkout one file from subversion
+sync file modification time across multiple directories
+count number of occurences of token in a file
+why do my hot-deployed files disappear sometimes? (i think apache has something to do with it)
+pdb files in visualstudio bin\debug folders
+subversion question: how can i use post-commit hooks to copy committed files to a web directory?
+crafting .webloc file
+automatically adding specified text at beginning of files in vs 2008
+how to removing trailing whitespace of all files recursively?
+how do i put a file (excel) online (apache server) with password protection but with the option for users to alter the file and save the changes?
+using mercurial, is there an easy way to diff my working copy with the tip file in the default remote repository
+subversion diff including new files
+how can i maintain history of a file that is moved to a directory overwriting a file of the same name
+how do you manage .vcproj files in souce control which are changed by multiple developers?
+why does subversion chown/recreate files on checkin?
+vs 2k8 doesn't release file handle after debugging stops: unable to copy file x to output directory because it is being used by another process.
+team foundation server (tfs) file difference viewer - how to split horizontally
+how to copy a file to multiple directories using the gnu cp command
+oracle sql technique to avoid filling trans log
+problem parsing an xls file with c#
+how do i get srcsrv with svnindex.cmd to index extern files ?
+how do you remove a file from being version controlled without deleting the file in subversion?
+modify spotlight metadata for a file outside spotlight importer?
+how do i create a temporary file with cocoa?
+auto edit host and vhost and file for a new site on aptana
+how to specify default file extension for oracle's pro*cobol precompiler
+automatically remove subversion unversioned files
+run index.php rather than listing files
+how to delete files older than x hours
+break whenever a file (or class) is entered
+how to efficiently delete all files in a document library?
+share .obj files between different configurations
+what is the best way to make files live using subversion on a production server?
+subversion: tag and commit modified files at once
+version control on large files
+is it possible to get a list of added or deleted files from subversion?
+best way to see what files are locked in subversion
+need help adding files to a subversion repository.
+linq to xml: parsing xml file which one of nodes presents type of another node
+deploy a resource file to app_globalresource folder on activation
+how to recreate an oracle 9i database from backup files (ora files)
+how to delete files older than n weeks from a microsoft ftp server
+sharing mysql conntection between php files
+how to append name of file to end of each line in file
+open a specified file in excel from a gui - borland c++
+is there some way to commit a file "partially" in tortoisesvn?
+how to close a file descriptor from another process in unix systems
+oracle 10.2 pro*c precompiler not reading header file
+creating a popupwindow from html, not a file
+list all files changed by a particular user in subversion
+web part feature and reading xml file
+what are the various files that could have path declarations for osx terminal in them?
+version control of mdf files
+creating mdf file from sql script
+how do i create a dump file from my subversion hosting account?
+shell script for replacing some files with symlinks
+reordering an mbox file chronologically
+reading an oracle lite odb file without oracle lite
+vs2005: how to not have vs try to parse text file resources as html?
+in excel automation, how to gracefully handle invalid file format error upon file opening?
+osx - always hide certain files
+usb (pny 4gb) suddenly appears empty - mounts, but name is strange, files not there
+is it safe to commit more files as a pre-commit hook
+examining subversion history of deleted file
+os x: creating or extracting preview(.jpg,.png) of .eps file
+best file system to transfer 5+gb files between os x and windows on removable media
+how do i add a file to subversion that has the same name as a directory that was deleted?
+[bash] fill placeholders in file in single pass
+protecting your images, css and javascript files from being used by external sites with apache?
+fastest way to navigate through files in textmate?
+how to repace ${} variables in a *nix text file
+com.finder.desktopservices asks for admin password when copying files
+subversion: how to retrieve files changed in range of revisions?
+getting new file added to subversion with updating whole folder
+how can i tell if a file is busy, e.g. the finder is busy copying to it?
+getting a cgimage out of a pdf file
+how could i .htaccess files above current site root?
+sharepoint problem saving a file over an existing file in a document library
+how to import file into sqlite?
+what options do i have for reading excel files and evaluating formulas in c#, java and php?
+rewriterule checking file in rewriten file path exists.
+on os x, seperating a gui into multiple nib files and nsview subclasses
+refering to environment variable in oracle sql files on linux and windows
+what are the file permission signs @ and + for?
+upload file directly to s3 with progress bar
+how to add a file selector/opener in cocoa with interface builder?
+how can i divide a bound array in parts that automatically fill the table?
+best way to copy of move files with objective-c?
+code template's indentation is buggy for code behind files in vs2005?
+validate all aspx, ascx and html files when building
+smart tool (addin?) for creating class body from header file
+vs2008 files and "start debugging"
+backup and restore ssp on moss 2007 fails due to missing .mdf files
+hibernate/nhibernate mapping file editor
+where does the tomcat axis file server-config.wsdd come from?
+semi-editable files (eg config files) and version control - best practices?
+how do i determine file encoding in osx?
+random errors while downloading files from sharepoint
+.htaccess file causing internal server error
+apache error log - file does not exist
+postscript files from latex blurred
+how to show another swf file in the webview which showing a swf file?
+what event is raised when a file is added to a project?
+dynamically fill in form values with jquery
+how do i set the don't cache header for an html file using apache?
+change revesion number in subversion, even if the file not change in the commit.
+packaging multiple features into a single wsp solution file
+huge abouticondata block in add-in file
+vs2008 macro: perform action on every code file in the solution
+finding files iso-8859-1 encoded?
+writing two dimensional array to file and reading two dimensional array from file using visual c++
+redirect requests only if the file is not found?
+splitting applicationcontext to multiple files
+how do you serve a file without leaving the page?
+always get exception when trying to fill data to datatable
+is storing config variables in an xml file on a php site under the site root too risky?
+force subversion not to merge specific files
+single file merge in subversion
+hibernate: how to map a *.hbm.xml file in a different folder?
+why are my file permissions on apache being reset?
+shell command to recursively give permission to directories and files
+inspect contents of a basic, unencrypted udif dmg file
+how do i sum together file sizes in bash, grouping together the results by date?
+vs2008 setup project installing extra dependency files
+shell script - two foor loops and changing extension of file
+mstest copy file to test run folder
+how to execute an .sql script file using c#
+post commit hook to update a file under version
+default using directives in new c# files
+recover files from old subversion backup
+find file in directory from command line
+the easiest way to write nsdata to a file
+url rewriting - redirect with no file extension
+read/write data from/to a file in pl/sql without using utl_file
+bash script to find a file in directory tree and append it to another file
+how do i write stderr to a file while using "tee" with a pipe?
+hibernate mapping file with dependancies to existing tables/pojos
+removing files starting with --
+oracle - exporting procedures / packages to a file
+commit changed files, added new files and omit some files to an external server in subversion on linux / ubuntu
+how to prevent hackers from exploiting apache ->sites-available -> default file
+how can i open a file using java stored procedure
+how do i serialize an object to file using nskeyedarchiver in nspropertylistxmlformat_v1_0 format?
+how can you open files which contain the word "exam" in terminal?
+how to remove files and directory in a appointed path?
+syntax error : end of file unexpected (expecting "fi")
+how can i safely write to a given file path in cocoa, adding a numeric suffix if necessary?
+any way to get sharepoint to stop converting attachment file names to all lower case on inbound emails?
+moving files to a directory
+is there a way of auto-generating feature.xml files for sharepoint development?
+find all .rpt files in vs solution
+how to associate external files with an assembly
+remove all .pyc files from a project
+how do you deal with multiple open files of the same name in visualstudio?
+listing the files and revisions with a certain check-in message in subversion
+viewing files in a remote ftp folder from a webpart
+load .wav file for openal in cocoa
+using apache and mod_ext_filter, need to dynamically replace values of static file based off of query string.
+creating a jar file from a scala file
+how to get the file size given a path?
+list directories containinf more than 1 file
+how i detect whether or not a file has been renamed using cocoa?
+does subversion merge diff or just update revision on unmodified files
+haskell: writing text files and parsing them back to original format
+htaccess file restriction
+how to change source file encoding in csharp project (visual studio / msbuild machine)?
+drupal: xmlsitemap file is not generated
+a bash one-liner to change into the directory where some file is located.
+oracle how to export query to a text/csv file
+subversion: prevent local modifications to one file from being committed?
+nginx (as front end to apache) to serve wp super cache static files
+how do i set default permissions when copying a file from windows -> osx
+oracle external tables: advanced flat file layout
+how can i keep a file in memory during editing?
+permissions to php session files
+how do i configure apache to forward some urls to my servlet container regardless if the file exists.
+reducing wav sound file size, without loosing quality
+error 1325.„sharepointdata” is not a valid short file name during sharepoint uninstalling
+left outer join fetch doesn't fill map collection properly (hql)
+which is the command to query a subversion repository for all files checked out to a specific user?
+marking file as executable on osx using c (carbon, standard c/c++)
+how to upload a file using asp.net without posting the whole page back?
+is it safe to put database file in htdocs?
+read only "n" bytes from a file in cocoa
+how to new a nib file in xcode 3.0?
+how to suppress the file corrupt warning at excel download?
+use an xml file with a feature
+converting an excel (xls) file to a comma separated (csv) file without the gui
+get file creation time with python on mac
+xdebug produces corrupted files
+how to keep a text file readable just from php and python, and not by users?
+how do i log to file on the mac (similar to log4net)
+apache .htaccess file redirect
+cocoa: filling an nsbezierpath with an image
+mod_rewrite adding unwanted file extension
+oracle database connections - what are all the fields i need to fill in?
+how to use dll's in the same directory as an excel file
+what comparable javascript function can reference a file like php's include()?
+how to create hbm files from java files??
+how do i find the number of times a file was revised in subversion?
+accessing a windows file folder from oracle forms 10g
+create a "label" in subversion indicating what files should be in the next release
+add a file to subversion with special characters like '%' in the filename.
+what kind of mac driver should i need to build to intercept the file system?
+how to keep a file under n lines long?
+finding incorrectly-formatted email addresses in a csv file
+creating patches between revisions per file
+odp.net oracle decimal number precision problem when filling a dataset. exception: arithmetic operation resulted in an overflow
+how to view different file extension in different color ib terminal of mac leopard.
+how to load an xml document from an openxml file without saving the xml file on disk?
+is there a command which will print the path of the file in the repo-browser in the command line?
+reading from a file not line-by-line
+how to configure the formatting of file upload in drupal 6
+list potential applications that could open a file
+http compression - how to send precompressed files that exist in a ear file?
+file watcher in cocoa
+file watcher in cocoa
+hosts file and multiple sub-domains
+file reading
+how to play a mp3 file from within the ressources folder of my application ?
+how can a web application synch a folder of text files on the client's pc?
+recursively add file extension to all files
+how do i search all revisions of a file in a subversion repository?
+specifying constraint name in hibernate mapping file
+problem with oracle sql loader control file
+tortoisesvn - missing files in client
+how to extract id tags from mp3 files in cocoa?
+is the file hidden?
+svnmerge and a file replaced with a directory
+plot data reconstruction reading pixel colors from image files
+is there any special category for external files in project file of qt creator?
+touch files from z->a with a delay
+if text file is not empty, email me
+osx change file encoding (iconv) recursive
+how can i get my website to display a .c file instead of trying to make the user download it?
+where can i find the file visualsvnserverhooks.exe
+how to insert a new line character after a fixed number of characters in a file
+what application can i use to create web .ico files on a mac
+how to write a sql loader control file to load data into multiple tables
+how to search the file in  the next level of the mac root ?
+writing a qnetworkreply to a file
+how to map a resource file in qt 4.5?
+reading the final name of a file downloaded using qnetworkaccessmanager
+asp.net mvc add column to the database - how do i update the dbml file
+how does subversion handle file permissions and a .htaccess file?
+best language suited for scanning many files for a keyword (called from a cocoa app)?
+svn / subversion: get all files on new check out, but then exclude certain files from update/check in
+moving files or directories with tortoisesvn
+create dmg file
+creating a .bashrc function to search through all files for a particular string
+apache mod_rewrite affecting files inside sub folder
+find natural block size of the media being used by file handle
+move files to directories based on first part of filename?
+redirecting stdout in a bash file results in a file created even when there is no error. why?
+rewrite only a specific file using mod_rewrite
+add to file if exists and create if not
+read entire file in scala?
+best location for database file in mac osx
+change file save location
+mac libraries for audio processing/sound file splitting
+do you strip header files when shipping frameworks with your osx application?
+how do i serve a file through jsmin php script with correct http caching (using .htaccess?)
+delete a file after user download prompt
+updating files on apache
+creating a "breaking news" div with ajax if file exists?
+bash: merging multiple files given different file name prefixes in an array
+writing to files in bundle?
+error while checking if a file exists
+htaccess 301 redirection for multiple files
+making a macro that exports chosen columns to a new file
+how do i package support files in a cocoa app
+replace chars in file by index
+parse file upload directly without writing to the file system
+cocoa nib files + localization
+mod_rewrite: redirect if anything but a file
+cocoa + dynamic text labels on nib file
+how to split a file and keep the first line in each of the pieces?
+source all files in a directory from .bash_profile
+remove old backup files
+file conversion using cocoa
+cocoa + skip os generated files
+fill array with consecutive integers
+ls only these file types using grep
+awk '{print $9}' the last ls -l column including any spaces in the file name.
+how to remove large amount of files using rm
+what do i put in the config.xml file to override linkaction in downloadable (magento controller)?
+what is the best way of generating a xslx file on a web site? possibly with millions of rows?
+keep a reference to a file after it has moved in objective-c?
+firefox : open xlsx file not saving file butn opening binary.
+nhibernate using single configuration file to connect to multiple dbs
+count number of files generated from split command
+deleting an excel file in c#, taskmanager process is not stopped.....
+password protecting autoindex but not static files with .htaccess
+how could i post an xml file in a web context
+what makes it possible to drag-open files on a mac?
+how to split a scala script into multiple files
+hibernate mappings: splitting up the file
+.htaccess problem: no input file specified.
+http headers for jpg files after mod_rewrite
+what's the best strategy for large amounts of audio files in mobile application?
+switch from file contents to stdin in piped command? (linux shell)
+copying a directory tree file by file
+apache hssf poi excel doc to tab delimted file
+qprocess::setstandardoutputfile only creates 0kb file
+internally redirecting to another file in apache
+how does one validate the schema of an xml file using scala?
+what's the minimum version of os x that supports file system events?
+read xls file from vb6
+arrange log entries into dated files
+how to get permission to edit the file apache2.conf? [ubuntu]
+qdir and qdiriterator ignore files with non-ascii filenames
+is there any way to make a dual executable file for mac/windows?
+apache config mime types: xlsx files are being interpreted as zip files on download, why?
+bash: copy named files recursively, preserving folder structure
+automatically compile any java class when the file is dropped in a directory
+c++/qt download file in sync
+how the scala script that reads 5g log file from network drive should be modified in order to read last x lines (like 'tail' in unix)?
+problem with mapping tag in hibernate configuration file
+can apache serve a default file instead of a 404?
+how to process file names with variables from a list in a file in bash
+when automatically updateing wordpress how does it grab files from another server and store it on my server?
+how to split up a file into modules in haskell?
+creating rss.xml file for wordpress posts...
+find file launching a process
+include jar file in scala interpreter
+problem with sorting on child object in hibernate when order-by is present in .hbm files ?
+disabling serving php files from a folder in .htaccess
+405 error uploading file
+drag & drop with .ui files
+how do you route stdin from a file to a function when running ghci
+how to create dmg file which will allow autostarting an application efter bootup
+can i use xmlhttprequest on a different port from a script file loaded from that port?
+generate hibernate mapping files (*.hbm.xml) from pojos?
+server-side, get progress on sending file
+how to gzip every file separately
+choosing rows form a file
+grep-ing multiple files
+apache: deliver some urls from the file system, all others from rails app
+mod_rewrite works in .htaccess files but not in apache2.conf
+download attachments in one file
+mac : i want the file open dialog in an app like xcode to open in the last-visited folder ...
+how to pass content of file from fileupload control to web method via javascript?
+how can i use a .hbm.xml file as input in hbmtemplate for maven?
+how to generate a single translation file for a large qt project?
+mass convert excel files into tab delimted text files
+jquery ajaxupload and php max file size issue
+apache poi - error in reading excel file
+why are people continuing to use xml mapping files instead of annotations?
+how to automatically ignore files in grep
+how to get the excel file name / path in vb script?
+how to create a executable .exe file from .m file
+how many files do search engines index per directory
+is there a scripting solution for determining the default application path for a file on the mac?
+generate .h and .cpp from .ui file
+custom file filter upload
+url rewrite apache locating files
+using .pri files in qt
+apache: download files getting a cr inserted before every lf (even spreadsheets)
+trying to install cabal package sdl-mpeg can't find include file smpeg.h
+show hexadecimal numbers of a file
+how would i convert my .htaccess file to nginx?
+loading constants from db and reading them in an include file
+sorting an xml file with qt
+how to access elements of matrices  from mat file in python?
+how to import .class file in jsp page which is not in standard library?
+search and sort data from several files
+individually execute all files in a directory
+how to send an object from one js file to another js file ?
+how to execute sql-script file using hibernate?
+how to get a window to receive drag and drop files in xcode
+apache file caching
+need help with apache's mod_rewrite to fetch file based on url
+missing file [qt]
+logging dynamically served files in apache
+creating a file downloading script with checksum verification
+pipe many outputs to same file at the same time?
+macos x. no such file or directory for lua framework.
+how to find duplicate files with same name but different case that exist in same folder in linux?
+persisting large files with hibernate annotations
+assistance with apache www.conf file correctly matching location?
+redirect all page on a domain to one file
+qt phonon open raw audio data file
+how to modify existing excel file using php?
+how do i write a csv file from a txt file with line omittion
+reading large csv files with strings containing commas as one field
+how to create folders using file names and then move files into folders?
+on mac o.s., how to get the name of files that has been dropped onto apple script to boot jar with the name of file as a argument to jar
+using php/apache to restrict access to static files (html, css, img, etc)
+how to make the apple script file configurable ?  can apple scipt file, shipped from window ?
+absolute file paths in mod_rewrite - allowed?
+getting exception for spring file upload (urgent)
+bash: copy a folder full of files and folders to an external hdd, but only if there is enough space to complete the copy.
+help with magento: controller file was loaded but class does not exist
+apache/php  serving file multiple times
+file selector in a qtablewidget
+extraction of data from a simple xml file
+how to read immutable data structures from file in scala
+scala script to copy files
+how can i find out a files "mime-type(content-type?)"?
+undeletable file due to backup script
+bash file attribute gymnastics: how do i easily get a file with full paths and privileges?
+how to get access to the metaproperties of a file (aspecially a mp3 file) with vba
+apache not loading css files on remote browsers but works on localhost
+apache <files> with require to exempt certain files
+what is the most compact or efficient way of doing several subsitutions in a file in bash
+drupal: the selected file intersection.png could not be uploaded.
+drupal flushing "page requisites" cache also deletes javascript files
+how to allow only certain files in apache
+mod_rewrite: direct everything to one php file
+calculate difference of numbers in two files
+escaping 'echo' in batch files
+how to password protect files (images, video, zip) dynamically from public and allow access to members only?
+using a dictionary file with sed
+redirect stdout and stderr to a single file with prefixes
+examples of attoparsec in parsing binary file formats?
+hibernate - problem in parsing mapping file (.hbm.xml)
+fastest wat to sort files
+find float in a text file
+is there a way to get apache to serve files with the question mark in their name?
+spring roo backup command lost my files
+why does file have to be saved prior to running ?
+making apache 2.2.11 parse .wml files as php?
+bash apache to seek particular file name
+how to make a file extension downloadable?
+cck remote file (image) field - i want to keep the cached copy of the image when the node is deleted
+in haskell, i want to read a file and then write to it.  do i need strictness annotation?
+why must recursion be in a separate file in hugs?
+is there a way to rewrite a url to go to a file stored in the filefield of the node
+using .inc files when theming.
+matlab - delete elements of binary files without loading entire file
+what files in magneto have no purpose being in source control?
+wordpress - failed to write to disk mov file
+custom post metabox with upload file button
+no properties file found error for reloadableresourcebundlemessagesource
+`sbt package` results in huge war file - how to make it smaller?
+is there a nice, safe, quick way to write an inputstream to a file in scala?
+how to import and plot data from a .mat file to x and y variables ?
+local folder files not taking, taking only core files (magento)
+magento - where's the php file subscribe.phtml calls once the form is submitted
+in magento 1.3.2 which file is responsible forstoring the data of payment gateway options like mastercard visa amex?
+magento - link to a frontend skin js file from an admin file
+weird error in my system.log file over and over and over
