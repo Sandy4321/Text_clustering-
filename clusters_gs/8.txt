@@ -1,0 +1,1000 @@
+drawing a view hierachy into a specific content in cocoa
+nsenumerator performance vs for loop in cocoa
+change templates in xcode
+error code reference for osx/cocoa
+best way to draw text with opengl and cocoa?
+unfiltering nspasteboard
+good ways to learn cocoa?
+dynamically hiding columns in a nstableview
+esc and enter keys in cocoa dialog
+cpan/gem-like repository for objective-c and cocoa?
+best way to remove from nsmutablearray while iterating?
+how can i dynamically create a selector at runtime with objective-c?
+how can i trigger core animation on an animator proxy during a call to resizesubviewswitholdsize?
+setprimitivevalue:forkey: and to-many relationships
+cross-model relationships in nsmanagedobjectmodel from merged models?
+best way to make nsrunloop wait for a flag to be set?
+handling exceptions raised during method called via nsobject's performselectoronmainthread:withobject:waituntildone:
+objective-c tidy
+avoiding, finding and removing memory leaks in cocoa
+how to tell if the user's using 24 hour time using cocoa
+what is the best way to solve an objective-c namepsace collision?
+is there a better way to find midnight tomorrow?
+how to change the height of an nsprogressindicator?
+nsautoreleasepool in nsoperation main?
+how to scale a uiimageview proportionally ?
+why can't i select symbolic links in nsopenpanel?
+what's the best way to validate a user-entered url in a cocoa application?
+is there a pattern for dealing with non-memory resources on cleaning up an objc object?
+locating bundles by identifier
+how to determine if currency symbol is to the left or right of a number on macos
+implementing a kvo/bindings-compliant bridge-pattern in cocoa
+cocoa bad habits
+how do you start debugging a cocoa app with a url?
+[nspredicateroweditortemplate templateswithattributekeypaths:inentitydescription:] for to-many key?
+nsdatepickerelementflags for nsdatepicker row editor returned from [nspredicateroweditortemplate templateswithattributekeypaths:inentitydescription:]
+modify spotlight metadata for a file outside spotlight importer?
+uuid mismatch detected with the loaded library
+best way to implement touchesmoved
+how do i create a temporary file with cocoa?
+stitch picture in iphone
+loading custom framework in iphone
+device information from nsevent/cgevent
+how do you print out a stack trace to the console/log in cocoa?
+calling performselectoronmainthread => multithreaded app?
+can we use cocoa httpserver in ipad?
+what's a good way to bind from a shared utility window and the frontmost document window?
+can you detect a ctrl-click (context menu) request in the mousedown event?
+is there an equivalent technique in cocoa for the synchronous trackpopupmenu in windows?
+obtaining the maximum width and height of a font
+best practices for using version-controlling on cocoa projects
+how would one implement a sidebar similar to mail/itunes/finder/etc in cocoa/ib?
+how can i use custom animations for onorderout in core animation?
+stop text from wrapping with nslayoutmanager
+is parentviewcontroller always a navigation controller?
+dealing with objects returned from cocoa convenience methods
+create nsstring by repeating another string a given number of times
+nsdateformatter won't parse dates using locale settings?
+what are alternatives to objective-c for mac programming?
+how do i collect key input in a video-game style cocoa app?
+mac os x - system preference pane won't open
+to use cocoa bindings or not?
+is it possible to access the previous/current value of a proxy object using kvo?
+uiviewcontroller vs. uiview - which one should create subviews?
+weird bindings issue
+does a newly produced mac application need to support 10.4, and can i both support 10.4 and prepare for 64bit?
+changing font tracking in cocoa
+sync services client and schema xcode project structure
+nsalert without bouncing dock icon
+unit test to verify object getting deallocated
+error handling in core data
+how should i rotate a uiview, without altering the location of the touch events i get?
+fetching core data entities, but not sub-entities
+display hidden characters in nstextview
+in-memory mime-type detection with cocoa (os x)?
+how can i change the way nsbuttoncell objects highlight when clicked?
+observing an nsmutablearray for insertion/removal
+how can i detect that the number of rows in an nstableview has changed?
+how can i make my nsscroller subclass have a different width?
+how do you develop an application to draw, edit and save uml models in cocoa?
+dependency injection framework for cocoa?
+good database library/orm for cocoa development
+nsborderlesswindowmask window wont show nspanels if not front most window
+debugging cocoa app
+getting a unique id for a window of another application
+how do i create a cocoa window programmatically?
+nstableview - nsbuttoncell data source type?
+what are the factors to decide between using core data versus rolling out a custom model?
+how can i pass a class name as an argument to an object factory in cocoa?
+encrypting data in cocoa, decoding in php (and vice versa)
+how does apple make the info.plist display its "information property list"?
+extracting 32-bit rgba value from nscolor
+should +initialize/+load always start with an: if (self == [myclass class]) guard?
+posix error 14 (bad address) on open read stream in cocoa.  hints?
+nsapplication delegate and preference panes
+setneedsdisplay not working?
+nstableview -setdatasource not working when triggered by fsevents
+cocoa: memory management with nsstring
+cocoa threadsafe mutable collection access
+are there are any cocoa-based data (er) modeling applications for mac os x?
+managing multiple asynchronous nsurlconnection connections
+threadsafe uitableview
+case-insensitive kvc in cocoa?
+how are the classes in the sketch example appkit application separated into models/views/controllers?
+delayed call, with possibility of cancelation
+how can i troubleshoot my custom url scheme?
+global variables in cocoa/objective-c?
+nsstring's initwithdata:encoding: return type issue
+javascript developer looking for insperation from frameworks such as cocoa
+iphone dev: passing object from controller to a view
+how do i get each line from an nsstring?
+pixel perfection with uibutton to cover a uitableviewcell
+how can i use cocoa's accessibility api to detect that a window is brought to front?
+encrypted web services connections and pk12 certificates
+setting the nsbrowsercell image using bindings?
+what's the difference between a coreanimation layer backed view and a layer hosting view
+changing mac os x user password programmatically or via script
+create a colored bubble/circle programmatically
+how do i keep an nspathcontrol updated with the selected cell in an nsbrowser
+a good place to find interface builder plugins…
+how to i change the main menu in cocoa?
+temporary text attributes causing massive slowdown
+helper functions in cocoa
+how do i find the correct case of a filename?
+calculating connection/download speed
+cocoa interface style
+why does my nib's window close immediately?
+abstract class memory management in cocoa
+looking for info on custom drawing of interface components (cocoa)
+do i still need to learn about managing memory now that objective-c/cocoa has garbage collection?
+what is the best way to model an association class in core data?
+how useful is nsobject's ismemberofclass: method?
+graphic effects library for core graphics?
+nstask and which not finding my installed git location
+adding a subview below my uitableview
+how do i draw a badge on my dock icon using cocoa?
+what's the easiest way to create an array of structs?
+when does using structs make sense in cocoa?
+how do i get controls on an nspanel to look correct?
+how to give nswindow a particular background color
+loading data into a cocoa view before the application loads
+parsing unsupported date formats in via cocoa's nsdate
+display os x window full screen on secondary monitor using cocoa
+syncing a core data model with a web service
+cocoa nsdocument: getting autosave to work
+how to create a series of dates in cocoa for a week
+how to call the c static library in a cocoa app ?
+how to create a binding for nsapp.docktile's
+best resource to learn application programming? (.net/cocoa/etc)
+drawing on desktop in mac os x
+cocoa/objective-c - can i somehow see the implementation files?
+parsing xml from an https url using nsxmlparser?
+performance tuning in cocoa application
+should i use nsdecimalnumber to deal with money?
+regular expressions in cocoa / objective-c.
+simple string parsing in cocoa / objective-c: parsing a command line into command and arguments.
+how to get the filepath when drag it from finder to a webview?
+com.finder.desktopservices asks for admin password when copying files
+pyobjc vs rubycocoa for mac development, which is more mature?
+how do i create nscolor instances that exactly match those in a photoshop ui mockup?
+returning a pointer to memory allocated within a function in cocoa objective-c.
+initwithframe not called, but awakefromnib is
+is there  a way to get coordinates relative to the innermost nsview when the parent is not the window?
+how to make a transparent nsview subclass handle mouse events?
+how to open a launch nswindow in cocoa on a button click
+licensing technology for os x applications?
+core animation with a core graphics drawing
+how can i access specific subsets of a large nsdictionary in cocoa?
+how do i make the value binding of nstokenfield supply an nsstring?
+encoding cgpoint struct with nscoder
+when is an nspersistentdocument's data store moved to final save location?
+how to tell when a qtmovie starts playing?
+nsmutablearray memory management
+in cocoa, how can i display the spinning nsprogressindicator in a different color?
+directly passing html code into webkit
+how do i cross fade text to an nstextview and an image to an nsimageview in a cocoa app?
+examples of cocoa/objective-c and distributed objects?
+how to show a local image in the webview?
+mouseover in nstableview
+in cocoa, how can i darken everything displayed in a single nsview?
+in cocoa, is there a proper way to handle overlapping nsview siblings?
+"mousedragged" but nsopenglview not refreshed until "mouseup"
+on os x, seperating a gui into multiple nib files and nsview subclasses
+lower case "k" in cocoa
+what does the ns prefix means?
+what's the best way to trim whitespace from a string in objective-c?
+writing to an iframe from nstextview
+creating cgimagecontext for resizing uiimage fails in simulator
+key-value-observing a to-many relationship in cocoa
+how to use nsstring drawinrect to centre text?
+how to add a file selector/opener in cocoa with interface builder?
+link an array controller to an array in xcode via outlets
+how can i make an nsoutlineview where some of the entires are buttons?
+how to show the logged messages window in xcode
+how to declare a function in cocoa after the function using it?
+why is my comparing if statement not working?
+is there a framewok / api i could use to export iphone-sdk's abrecordref instances to vcard?
+how can i divide a bound array in parts that automatically fill the table?
+shared objects in cocoa
+bind user defaults to different identifier
+drawing massive amounts of data in nsview, or something else?
+custom nscontrol target/action howto!
+how do i dispose of my own sharedinstance in objective-c?
+how to use mac os x cocoa events for multitouch gestures
+outlineview:datacellfortablecolumn:item: has strange side effect
+how does one reproduce the inset text style when drawing text with mac os x cocoa?
+use settarget: message of a cell to make the target file's owner
+nsxmlparser and error constants
+can i use nsurlcredentialstorage for http basic authentication?
+what open source cocoa/cocoa touch frameworks are out there?
+multiple custom controls that use mousemoved in one window...
+best practices for passing data between processes in cocoa
+best way to handle multiple nstableview(s)
+how do i add a third party framework to xcode project?
+do nsshowallviews and nsshowalldrawing work with xcode 3, os x 10.5.6 ?
+what cocoa/core foundation helper functions do you wish you knew about 2 years ago?
+which is easier for beginners: rubycocoa or objc/cocoa
+customising an nstextfieldcell depending on the isenabled biding of the table column
+how do you explicitly animate a calayer's backgroundcolor?
+why is movie jumpy when i play simultaneously in 2 cocoa views?
+nsoutlineview - auto-expand all nodes
+nsnumberformatter: plussign vs. positiveprefix
+core data vs sqlite3
+cocoa/iphone: backgroundcolor and opaque properties
+create an uri for an application
+binding nstextfield to nsnumber
+[self arguments] in nsscriptcommand
+two asynchronous nsurlrequests using objective-c for iphone
+tips for reducing core animation memory usage
+implementing "scrubby sliders" in cocoa?
+how to implement gradient button bar in cocoa
+explanation of cocoa @selector usage.
+remove correctly selected nsmanagedobjects
+how to get the path and url of the temp image ?
+how do you gui-test your cocoa apps?
+nsmanagedobjectcontextobjectswillchangenotification
+observevalueforkeypath:ofobject:change:context: doesn't work properly with arrays
+is it possible to observe a readonly property of an object in cocoa?
+how can i reset a cocoa nssearchfield programmatically?
+nstreecontroller - malloc double free error
+nsstring into nsdata
+how to show another swf file in the webview which showing a swf file?
+running cocoa app under otest causes dyld_misaligned_stack_error in release mode
+handle osx dock drag n drop
+creating a quartz composer style interface
+hide nswindowtoolbarbutton
+extending the attributes inspector in interface builder
+navigation controller strategy with an address book picker
+uitextfield changing font size via interface builder
+highlight nstoolbaritems
+objective-c networking - best practices?
+is it possible to bind the null placeholder in cocoa?
+catransform3d vs. cgaffinetransform?
+nscolor with calibrated values works differently than regular color??
+convert characters to html entities in cocoa
+observing properties with custom accessors
+core animation - sheet-like window sliding
+set default values for a global variable in a custom class?
+binding two different model-key-paths to the same nsarraycontroller selection
+nstimeinterval to readable nsnumber
+disable option-enter line breaks in nstextfield?
+best way to escape characters like newline and double-quote in nsstring
+copy/paste not working in modal window
+how can i get the icon for a storage device in mac os x?
+can i end editing for the field editor's control without disrupting focus?
+feedback framework for cocoa
+₡urr€nc¥ i$ ki₤₤ing me!
+have you ever used nszonemalloc() instead of malloc()?
+what describes the "file's owner" best in objective-c / coca nib?
+writing a string to nspasteboard
+traversing multiple core data objects using nspredicate
+binding a custom nsview: does it demand creating an ibplugin ?
+subclassing a nstextfield
+why does cocoa returns an empty string occasionally?
+register as login item with cocoa?
+how to make an itunes like (playlists, library) left-sided (collapsible) navigation bar?
+setting up kvo for calculated values, based on calculated values.
+arrow keys with nstableview
+how to show a title of  document window without icon?
+using single quote when building a string in cocoa
+cocoa color indicator bling?
+what leads to a no suitable image found error on mac os x?
+double click a nstableview row in cocoa?
+how to hide the dock icon
+cocoa qtkit and recording movies
+cocoa without interface builder, initialize an instance of app controller?
+add app to the "startup items"
+how do you read a third-party cocoa project?
+how to drag nsstatusitems
+cocoa/objective-c nsprocessinfo weirdness...
+weird build error, problem with class name?
+qtkit, opening input devices???
+using frameworks in a command line tool
+creating a core data inverse relationship
+what is a referencing outlet?
+cross platform development - go with a cross platform ui toolkit or native on multiple platforms?
+nsmutablearray count always returns zero
+how do i dismiss a sheet with the escape key?
+escaped unicode to unicode character in cocoa
+cfstringref to nsstring
+cocoa/opengl coordinate transformations
+how should i remove all items from an nstableview controlled by nsarraycontroller?
+where do you put cleanup code for nsdocument sub-classes?
+nstableview and nsoutlineview drag and drop help
+cocoa - suggested techniques for debugging binding problems between xcode and interface builder
+how can i create a gui and react to cocoa events programatically?
+pixel size od nsbitmapimagerep
+how do i detect if an application is document-based?
+why do nsstring and nslog appear to handle %c and %lc (and %s and %ls) differently?
+nstextfield with "padding" on the right
+cocoa binding to a particular item in an array controller
+wrap nsbutton title
+why isn't my sheet attached to the window it's run for?
+how to prevent the os x text layout engine from automatically "flipping" lines with right-to-left text?
+why does -[nstextstorage replacecharactersinrange: withattributedstring:] sometimes, sometimes not honor fonts in other character sets?
+the easiest way to write nsdata to a file
+reloading a table view in an iphone app?
+which delegate method i should use when i cliked on a textfield?
+how do i get objects in the responder chain to handle `inserttext:` messages?
+how should a custom view update a model object?
+nstableview sort not getting correct id
+which delegate method i should use to respond to clicks on a text field?
+nsview with variable number of items inside
+how to show a splash ui before app run?
+cocoa: [statusitem setview:myview] makes a white bar menu item no matter what
+how can i get notified of a system time change in my cocoa application?
+making an nstextfield act like a "microwave timer", store as nsnumber
+why would i make an all-optional message protocol?
+gray nstableview à la itunes
+limiting the number of objects in nsarraycontroller
+nsmutablearray add object as pointer only?
+nsbutton default button with blueish look
+how do i time a cocoa app?
+in cocoa/interface builder, how to clear text in textfield after button click
+code in nstimer prevents automatic sleep
+integrate nsstepper with nstextfield
+cocoa: measure time between keypresses?
+why the splash window can’t show before the app lunch?
+how to do an http get in cocoa on the iphone
+is an nsmutablestring in this case more efficient than nsstring?
+cocoa memory editing inspection
+what is the most elegant way to encode/decode an object to dictionary
+ugly looking text when drawing nsattributedstring in cgcontext
+how do i create cocoa interfaces without interface builder?
+determine if nsnumber is nan
+forcing reading of a text field before dismissing modal dialog in cocoa
+another question about iphone application state
+best route to creating a calendar based date picker for cocoa?
+how do i serialize an object to file using nskeyedarchiver in nspropertylistxmlformat_v1_0 format?
+how can i slide a view in and out of a window in a cocoa program.
+cocoa api comments guideline
+highlight colors in an nstablecolumn on highlight
+nspopupbutton, bindings and a shortening lifespan
+objective c makes integer from pointer without a cast passing objects as args
+cocoa screen capturing?
+the mac os tiger and about panel of germany version
+how to disable the quit func under the mutildocument environment ?
+how to add these object with name to the array by this order?
+using cocoa to detect when a running application plays audio
+is the nsdocumentdirectory unique for a given application?
+storing a passwords in nsstring without being readable in memory
+how do you check for sanity in objective-c and cocoa?
+using a constant nsstring as the key for nsuserdefaults
+what is the best way to implement syntax highlighting of source code in cocoa?
+how to remove files and directory in a appointed path?
+how to programatically add an object to a bound nsmutablearray?
+what's the best way to draw a bunch of (~200) colored rectangles in cocoa?
+getting notified when the current application changes in cococa
+how to stop an nsinvocationoperation?
+how do you flip the coordinate system of an nsview?
+focus a nstextfield
+can nsalert be used to create a floating window?
+change text cursor (caret) colour in cocoa?
+what's the accepted way to implement export functionality in a document-based cocoa app?
+how can i safely write to a given file path in cocoa, adding a numeric suffix if necessary?
+kvo and bindings problems using my own (not the shared) nsuserdefaults object
+how would you make a checkbox delete a row in a table if checked (cocoa) ?
+what data type do i use for an integer in soap xml in cocoa?
+maximum length of [nsxmlnode stringvalue]
+how to signal an nsstreameventendencountered on an nsinputstream reading from nsmutabledata.
+cocoa: learn currently selected keyboard layout / input language
+how do you make a row in a table view go slighly opaque if a checkbox in that row is checked?
+core animation... cyclic animations?
+testing own os x framework
+nsrequest - encode url for nsrequest post body (iphone objectiive-c)
+cocoa : how to make a control invisible?
+why does the dialog i created in leopard look terrible in tiger?
+how hard is it to get a cocoa application to run on windows?
+how to export a image to a folder?
+what does cgcolorgetcomponents() return?
+is there anything like a generic list in cocoa / objective-c?
+nslog on mac osx/iphone, usage of the '#' key?
+getting rid of the focus rect on an nscell. only shows up when right clicking.
+binding nsslider to control the zoom of an ikimagebrowserview
+asyncsocket vs nsstream
+cocoa development: malloc: free_garbage: garbage ptr = 0x18a15e0, has non-zero refcount = 1 error
+load .wav file for openal in cocoa
+save documents as folders, like pages, numbers, etc...
+getting a cgimageref from ikimagebrowserview
+how to generate a dsa signature?
+creating a quick look style zooming effect
+how do you make the application window open when the dock icon is clicked?
+how do you make your app open at login?
+disable nstoolbar customisation via window's toolbar button?
+how to move the cursor of a qtmovie?
+how to get the file size given a path?
+how do you get search capability similar to spotlight or itunes?
+lsuielement application that starts a window with an application menu?
+how to make part of an nsslider stop at tick marks?
+how i detect whether or not a file has been renamed using cocoa?
+how do you change the look of a check box?
+need help to solve window opening problem.
+preferences window problem (once open and closed, will not open again)
+setting color when drawing into a nsimage
+how do you test an asynchronous method?
+what should i replace this code with?
+flipping quicktime preview & capture
+is it possible to use cocoa's bindings to have an editable nstableview hooked up to an nsmutablearray?
+how do you make a button link to a website in cocoa?
+how do you set a title so that every row in a table has the title already typed in when you add a new row?
+how do you make a text label display how many rows there are in the table.
+how do i use an nsformatter subclass with an nspopupbutton
+how to gain access to all  open windows on desktop using cocoa?
+why can't i correctly parse this date string with nsdateformatter?
+cocoa -/+ declarations
+hide a window in cocoa from awakefromnib
+how do you make a menu bar item display how many rows there are in a table?
+cocoa control for setting shorcuts
+cocoa control for keywords/tags
+how should i return an nserror object from a delegate method?
+programmatic equivalent of "visible at launch" for nswindows
+which method of checking to see if a nsdictionary contains a particular key is faster?
+persist and rearrange the order of core data records
+send an action cocoa - ibaction
+how do you implement the method makekeyandorderfront: ?
+why is app window only opening once and then not opening again?
+how to do a full text search in cocoa?
+my nsdateformatter works only in the iphone simulator
+cocoa: what nstextview the insertion point is currently blinking in?
+[nsview setframe:] not working?
+how to get the token type from a cfstringtokenizer in cocoa?
+cocoa notification example
+how do you give a text field a default font and some padding?
+how do you toggle the status icon in the menubar on and off using a checkbox?
+cocoa nsview changing autosizing properties
+initialize nsmutablearray: [nsmutablearray array];
+[super viewdidload] convention
+move focus to newly added record in an nstableview
+how would you make a status item's title be an image not text?
+adding non-model nodes to an nstreecontroller
+how do i get the inner/client size of a nsview subclass?
+how do you put a normal control into an nsview?
+property declaration for to-many fields in core data
+key value observing in cocoa, introspecting the change property
+do cocoa nssortdescriptors belong in the model or the controller?
+open source card games or books for objective-c/cocoa?
+use an object after it has been released?
+cocoa autoreleasing in loops
+can someone explain these errors to me?
+how would you add a group feature like ichat's to your core data app?
+populate an nstokenfield with tokens from a container of objects
+delegate methods of nstextfield using nsnotification
+how do i convert cocoa co-ords from top left == origin to bottom left == origin
+how can my app detect a change to another app's window?
+using predicates on an array controller to filter related objects
+is it possible to create a uitabbarcontroller whose tabbar items have text labels only (no icons)
+copy protection (mac apps): most cost effective solution??
+cocoa foundation kit question - nsdecimalnumberby...:withbehavior:
+updating the image of a nsstatusitem
+open string in app per drag'n'drop on icon
+how can i make an undecorated window in cocoa?
+under what circumstances would [[nsscreen mainscreen] visibleframe] return null?
+is there an easy way of sorting a plist (array of dictionaries) by key value?
+call another program's functions?
+how do i find the pixel position of a character in an nstextview?
+read input from a cocoa/foundation tool console?
+releasing core framework object references
+how do i create a nice -description method that nests recusively like nsarray
+create drag-drop graphic when installing os x application from dmg
+core animation code structure/conventions
+cocoa why do i have to retain and release a function parameter?
+what does the "generate validation methods" checkbox in the managed object class generation dialog do?
+how to controll the webview in the scrollview with the scrollview's controller?
+best way to post nsnotification with nsrect info?
+cocoa framework issue
+comparing strings in cocoa
+get ip address of arriving data package
+uiwebview slow loading images--disturbs scrolling to anchors
+apple documentation a bit lite?  tips?
+how to get the system version?
+registration for cocoa shareware
+user-friendly approach for network streaming, playing and seeking of audio in mac os x
+nsstring to wchar_t*?
+override interface builder instantiation of objects?
+idiomatic, classy, open-source examples of cocoa interfaces?
+is it possible to have a binding that combines more than one key path?
+cocoa - prevent caching of javascript in webkit - safari beta 4 bug?
+how do i tell nstableview not to resize all other columns when showing/hiding a column?
+how to color text in popup menu of nscombobox?
+how do i override nserror presentation when bindings is involved?
+how to implement browser toolbar in cocoa?
+how do you make a outline view re-orderable like a table view?
+how did the cocoa framework got its name?
+how to do string manipulation in an nsvaluetransformer?
+get nsindexset from nsarray
+[self release], [self dealloc] or [super dealloc] in init methods?
+core animation view intermittently not appearing
+opening links but not iframes in webview
+nstableview with custom cells
+how do you make a button remove a row with core data in an outline view?
+logging all cocoa events?
+how to display unarchived custom nsview objects
+why am i getting these errors in the console when debugging in xcode?
+am i using nstimer correctly in iphone view-based app?
+why do all the checkbox's in my outline view check when only one is clicked?
+easy way to make a uilabel cover and exactly match contents of a uitextfield?
+how would you make a checkbox cell only display on a certain entitys rows in an outline view?
+what's the best way to add a composite property for binding to an existing class
+what is the correct way to tell when an nsarraycontroller is finished loading it's content from a persistent store?
+creating a bundle - what's going wrong?
+creating object named after the value of an nsstring - is it possible?
+nspopupbuttoncell inside custom cell does not pop up when clicked.
+best way to start learning cococa in iphone or osx, espeicaly getting the big picture
+nsimage to base64
+how would you make a text cell in a an outline view show how many children the parent row has?
+read only "n" bytes from a file in cocoa
+using nsproxy and forwardinvocation:
+garbage collection crash using nsimage
+does nsstring stringwithcstring: length: retain the byte array i pass in?
+how to new a nib file in xcode 3.0?
+how would you make a status item show or hide a window when clicked?
+how would you make a checkbox in a outline view become checked when all it's children's checkbox's are checked?
+nspopupbuttoncell inside custom nscell does not change selection when item is selected from menu
+how do i deselect all cells in an nsbrowser
+how to open a panel with new folder function by nsopenpanel ?
+i want to allocate memory for 700 mb to 800 mb image size
+connect to sharepoint trough cocoa
+getting the list of running applications ordered by last use
+uiwebview in multithread viewcontroller
+ns(array|tree)controller architecture for multiple nsviewcontrollers
+how would you make a button display a window when clicked?
+should "to-many" relationships be modelled as properties?
+object communication - passing self to another object / objective-c, cocoa
+notification of webview's selection change
+how can i set a "hidden" attribute for text inside nsattributedstring?
+how do i bind the enabled binding of a button to whether or not an nsarraycontroller has a selection?
+update bound dictionary based on nstextfieldcell's edited value
+how do i create a lock/unlock button and behavior in my secure preference pane?
+using nspredicate to filter an nsarray based on nsdictionary keys
+cocoa utility class
+profiling objective-c binary image size
+how would you make the text in a checkbox cell be able to be edited?
+how to get the image of mac system icon in finder?
+osx audio hijack style audio recording from other applications (cocoa)
+background image for a window in cocoa framework
+how to get notifications of nsview ishidden changes?
+how would you put an image next to a text cell for only parent rows in an outline view?
+cocoa: filling an nsbezierpath with an image
+cocoa bindings: custom setter methods?
+coccoa application
+uinavigationcontroller and autorotation.
+cocoa keyboard shortcuts in dialog without an edit menu
+how do i localise a default attribute in a core data entity
+how do i convert an nsstring into something i can use with fscreatedirectoryunicode?
+method signature problem.
+how do i create an fsref from a nsstring containing a path?
+how do i create an import-only document type in cocoa?
+how do i use the return value of a sheet to decide whether or not to close a window?
+how to get value from nstextfield(in cocoa)?
+cocoa controllers - best practice for notifying on completion, for disposal?
+sfauthorizationview authorize: method does not work.
+unix domain sockets and cocoa
+making a menu item display a window.
+how would you give an outline view alternating row colors?
+is there a difference between delegate/selector and target/action?
+subclassing nsoutlineview
+how do i iterate over an nsarray?
+remove white backgrounds from images
+nsoutlineview not doing what it has should do in it's subclass.
+giving the root row of an outline view a different background color.
+mac os x: quickest way to kill/quit an entire process tree from within a cocoa application.
+sort nsfilemanager results
+fullscreen key down actions
+how to transform array argu from object_c to javascript?
+dead-tree periodicals on mac development?
+how to use nsurlrequest with non-static content?
+remove newline character from first line of nsstring
+cocoa - localized string from nsdate, nscalendardate...
+nsarray to c array
+why don't i declare nsinteger with a *
+how do i include calls to methods only present in one operating system version when compiling for multiple versions?
+how can i use nslog in main() but outside of nsapplicationmain?
+why co-cocoa pr-programmers st-stutter...
+checkbox in tableview
+nsoutlineview, nstreecontroller and willdisplaycell
+nsscanner - scan next line into string
+accesing a nsarray.
+renaming keys in nsmutabledictionary
+memory leaks - formatting a string to display time, each second
+how to programatically get current battery level with cocoa
+getting nsarraycontroller item for right click in nscollectionview
+core data: strange bindings error on re-opening a document. help?
+singleton design
+any "fundamentals-oriented" example of nsscroller out there?
+nsxmldocumenttidyhtml doesn't tidy some xhtml validation errors.
+why does spotlight sometimes not run my query?
+how to create an nsstring with one random letter?
+removing a binary attribute's data(used in nsimageview) in core data entity
+does [nsstepper setminimum/setmaximum] also set the value?
+can you write cocoa apps with html/css and javascript?
+nsbuttoncell (nsswitchbutton) binded to bool value
+cocoa distributed objects, long polling, lunchd and "not responding" in activity monitor
+cocoa focus ring color animation
+correct structure to check for errors using nserror
+mouse events for an nssegmentedcell subclass?
+how to make a keyboard shortcut to close dialog with xcode/interface builder?
+why are subviews of an nsview not sent a release message when a cocoa application terminates?
+core data, nsarraycontainer arraycontent of many arrays
+how to use google toolbox for mac for ui unit testing.
+drawing once per frame in cocoa
+nsnotificationcenter selector won't work with its nsnotification
+is there a way to programmatically determine the proper sizes for apple's built-in controls?
+how to display indeterminate nsprogressindicator in the nsoutlineview?
+a view controller that can be instantiated both programatically and in ib?
+enforcing that a class posts a particular nsnotification?
+file watcher in cocoa
+use nsarraycontroller with nested nsmutablearrays (cocoa bindings question)
+file watcher in cocoa
+coccoa application
+what do these errors in the xcode debugger mean?
+nsimage rotation
+is it possible to replace the mac login screen?
+cocoa: quartz, core graphics, context vs view. oh my!
+open source objective-c projects with high quality code?
+dynamically loading a part of a window in cocoa
+persistent uibarbuttonitem in uitoolbar?
+in cocoa, how do i set the ttl on a packet?
+how to wait for an animator to finish?
+design an nsview subclass in interface builder and then instantiate it?
+nsimage vs. ciimage vs. cgimage?
+how to display a raw yuv frame in a cocoa opengl program
+running process listing
+check whether application already running
+resources for unit testing cocoa applications
+making a checkbox toggle the dock icon on and off.
+database results in cocoa
+putting an nspopupbutton in an nstoolbar
+switch between views in cocoa (not cocoa touch)
+why do these errors in xcode mean?
+can i make this code work with shortcut recorder?
+global object for javascript to interact with safari plug-in
+parsing xml in cocoa
+tripping over nsvalue, nsnumber & nsdecimalnumber
+cocoa app, my problem with -windowshouldclose
+enabling save for an nsdocument
+hot to select items in nsoutlineview without nstreecontroller?
+bottom bar in nswindow
+simplifying a complicated cocoa-touch view controller
+how to customize nstextfield look (font used, font size) in cocoa ?
+interface builder uidatepicker
+find installed applications in cocoa
+how to play a mp3 file from within the ressources folder of my application ?
+nsstring color
+reference from uitableviewcell to parent uitableview?
+crash reporter for cocoa app
+get duration in avaudioplayer?
+how to animate scrollpoint?
+limit a double to two decimal places
+testing errors with ocmock
+question about extensiblity of cocoa touch controls
+how do you enable javascript in a webview
+multiple documents in a single window in cocoa
+cocoa: getting the current mouse position on the screen
+when porting java code to objc, how to represent checked exceptions?
+should frameworks be put in /library/frameworks or in the application bundle when putting multiple applications in one bundle
+error: incompatible types in assignment
+how do i get the representedobject from a view in an nscollectionviewitem?
+how to click a text with underline for showing a web?
+why does an nsview's frame: method return the wrong results?
+duplicating views
+cocoa mail framework
+how can i send a html email from cocoa?
+address book thread safety and performance
+is the file hidden?
+cocoa - notification on nsuserdefaults value change?
+keydown and cocoa sample
+how to create a cggradient for my uiview subclass ?
+deploying beta software updates and sparkle
+how to implement pay pal in cocoa objective c application.
+second frontmost app?
+round nsdate to the nearest 5 minutes
+filtering data in an nspopupbuttoncell in an nstableview
+multiple keys held down in cocoa (os x)
+fun function every minute in cocoa
+cocoa nsnumberformattercurrencystyle without "$" return zero
+how to use @sum with coredata
+interface-builder outlets causing odd display behaviour
+how do i save state with calayers?
+customize finder 'get info' window?
+userdefaults in system preference pane installed for multiple users in osx...
+can you manually implement cocoa bindings?
+how can i retrieve the html to be loaded into a webview (or webframe) from a local persistent store?
+in cocoa, what is the best way to change the cursor when hovering over a circular view?
+executing simple commands with cocoa and sdef.
+how do i index through a cocoa nsarray to draw a shape in quartz composer for every element in the array?
+altering the style of an nssearchfield.
+core data simple relationship in code
+need help with nsmutabledata.
+trouble with nsdecimalnumber's decimalnumberbydividingby: withbehavior:
+nsstring retain problems
+filtering a nsoutlineview/nstreecontroller.
+why am i getting this error, when it cannot be true?
+callbacks in objc+cocoa
+launchd relaunch app on quit
+passing a native pointer to performselectoronmainthread's withobject argument?
+problem with webkit rendering google.com (and a few other sites)
+cocoa: dictionary with enum keys?
+adding padding to the 'left' of a text field.
+why would nswindow with nstableview not resize?
+how to block until certain notification is posted in cocoa?
+xcode linking build error
+which gui element does ical use for calendar view?
+cocoa: any checks required for multiple asynchronous nsurlconnections?
+detecting when an nsview is dealloc'ed
+well written open source cocoa apps to learn from
+trouble with float in objective-c
+how to search the file in  the next level of the mac root ?
+sethidden not working
+deleting a row from an outline view.
+nszombies are eating my app's brain!
+nsstatusitem to be always left?
+how to disable the alter panel caused by nsalter automatic?
+encoding special characters
+cocoa mini toolbar under table (add, remove)
+upload and download data from server with cocoa?
+cannot hide controls in nsview
+returning an array in cocoa, but waiting for delegation to complete
+how to implement very large scrolled view in cocoa
+xcode error -  … undelcared …
+why shouldn't i use a cursor rect on a rotated nsview subclass?
+mouse event is not detected on my nstableview + cocoa
+multiple views and source list in a core data app
+making the name of the app appear in the menubar (top-left corner) when the app is lsuielement.
+best language suited for scanning many files for a keyword (called from a cocoa app)?
+nscolorwell subclass not getting mousemoved events
+nstableview switch column
+how to use nscollectionview and outlets properly?
+floatvalue for cgfloat
+can i start a thread by pressing a button in a cocoa interface and keep using interface while thread runs
+problems with drag and drop in an nsoutlineview.
+programmatically activate nsmenuitem
+error drawing text on nsimage in pyobjc
+how can i refresh core plot without returning from a method?
+is there a way to pause an nsthread indefinitely  and have it resumed from another thread?
+cocoa app - piracy protection
+how to store dates without times in core data
+filtering a tree controller.
+using toolbar & views on cocoa
+audio equivalent of qtmovieview?
+is there a "right" way to have nstextfieldcell draw vertically centered text?
+create dmg file
+when does selectedcell change?
+problems with iboutlet getting nil.
+find natural block size of the media being used by file handle
+debugging a cocoa droplet application in xcode
+finding a specific element in an nsarraycontroller
+how do i fix the height of my view after collapsing nssplitview?
+recalculate attribute on every change of another attribute in core data mo.
+using nstask: app freezing after returning output
+encoding string arguments for urls
+cocoa webview - disable all interaction
+handling very large sftp uploads - cocoa
+observing self in cocoa
+importing pantomime for sending email!
+sparkle updater framework
+how do i implement a customized list in cocoa?
+dynamic results and covering data
+webview history
+cocoa - communication from child view to parent view
+cocoa: laying out dates on a month-view calendar
+cocoa interface builder's 'attributes inspector' like window
+scroll bars in nstokenfield
+core animation window flip effect
+iphone subview design (uiview vs uiviewcontroller)
+how to add a checkbox in a alert panel?
+starting editing on a row as soon as it is added.
+infinite loop when running code in terminal from xcode
+message reason: image not found
+itunes xml parsing in cocoa
+can i trust cocoa apis not to fail silently, or do i have to defensively check everything?
+easy way to get size of folder (objc/cocoa) ?
+find all folders in root directory
+how do i comment a core data schema?
+cocoa/objective-c: how much optimization should i do myself?
+how to create an ipod-esque uislider
+nsstring to fsref conversion doesn't work
+how to make an nsstring path (file name) safe
+ordinal weekday suffix option for nsdateformatter setdateformat
+odd problem using addobserver:forkeypath:options:context: in init method
+when close the top window ,how to let the focus to the next level window?
+getting to the managed objects in nstableview
+how do i convert nsstring to nsdata?
+alternative to poseasclass in mac os x 10.5 and higher?
+why doesn't cocoa like this url?
+sigpipe exception
+nstableview selection & highlights
+problems with the php script to generate the licenses in aquatic prime
+change file save location
+mac libraries for audio processing/sound file splitting
+create a padded, centered, scaled nsimage
+ensure a subprocess is dead in cocoa
+cocoa - return information from nsoperation
+apple photosearch example code - need help.
+animating nsdrawer
+using nsoperation for threading creates too many objects
+run javascript without uiwebview possible?
+list of all users and groups
+speeding up creation of nsdictionary from xml?
+add/remove rows to/from nstableview in objective-c
+nsmutableurlrequest question
+[cocoa/objc] find parent directory of a path
+how do you add context senstive menu to nsoutlineview (ie right click menu)
+status bar on bottom of window that looks like interface builder
+un-recognized selector sent to instance error.
+countdown timer in cocoa
+kvc/kvo and bindings: why am i only receiving one change notification?
+cocoa string question
+cocoa core data - background thread
+cocoa - singleton object: where to initialize member variables?
+app crashes when updating an highlighted nsmenuitem
+nsview leaves artifacts on another nsview when the first is moved across the second
+making an nstableview display articles from an rss feed.
+how does textmate draw it's own key equivalents in nsmenuitem
+how to rotate a calayer-backed nsview subclass
+how to change tint color of cocoa's nslevelindicator?
+hide buttons from titlebar in cocoa
+objective c categories and performance?
+why do applescript "tell" commands run a non-gui instance of my gui application in the background?
+cocoa document-based app
+nsfilehandle readinbackgroundandnotify does not work
+what is the cocoa equivalent of updatesystemactivity?
+how best to debug a crash within objc_msgsend?
+is there a simple way to combine a text and icon in an nscell in cocoa?
+current text direction (bidi support) in cocoa?
+get current playing song using cocoa
+nsscrollview bar not scrolling through nstableview rows
+why the observer in nsnotification called twise....    ?
+why are there more files/hardlinks with the same inode than the reference count shows?
+multiline nstokenfield and the return key
+how can i generate convenient date ranges based on a given nsdate?
+nsindexpath incrementing values
+ip address? - cocoa
+cannot pass message (or call a function) using the outlet of a customized class
+- (void) processimage:(char *)image;  ---char* causes a memory leak?
+does not using interface builder buy me anything?
+gui wrapper for perl command line app on osx
+kill process after launching with authorizationexecutewithprivileges
+how does [uiview beginanimations] work?
+cross-user and cross-process shared settings
+nswindowcontroller
+vpn in cocoa app
+no results in spotlight in searches against kmditempath
+making an nsbutton in-active.
+what kind of category methods do you use to make cocoa programming easier?
+load swf inside nsview
+modal custom sheet not closing
+converting enum into a class hierarchy
+os x - app doesn't show up in force quit.  how do i fix that?
+what is the @package compiler directive for in cocoa?
+taglib.framework for cocoa
+calculating columns with core data like sql
+give perspective to uiimageview
+writing to files in bundle?
+list of libraries available on a stock installation of os x?
+guess encoding when creating an nsstring from nsdata
+how to escape double quotes in string?
+error while checking if a file exists
+count of chars in nsstring or nsmutablestring?
+how can i resize an nstextfield to fit the text that it holds?
+how can i load an nsimage representation of the icon for my application?
+pyobjc and cocoa on snow leopard
+how do i package support files in a cocoa app
+contextual munu and action:@selector
+is there a way to use bindings with an editable nssecuretextfieldcell in an nstableview?
+making the code check to see if the text in a text box matches any of the strings in an nsarray.
+how can i force invalidation of a cocoa program without additional custom code?
+start up question..
+nsbezierpath / line intersection / flatten
+suggested resources for learning about blocks in snow leopard
+getting the path of a application at runtime + cocoa
+cocoa application architecture on mac os x
+cocoa document-based applications
+garbage collection of core foundation objects
+resizing an nspanel to fit a dynamic nsmatrix and a button
+how do i update a constraint on my calayer?
+cocoa/objective-c: get macbook icon
+cocoa app: how distribute beta versions?
+capturing all multitouch trackpad input in cocoa
+why does the cocoa 64 bit garbage collector not release memory?
+string question - cocoa
+reading swf header with objective-c
+making the children rows in an outline view be deleted when their parent is.
+making an nsalert be displayed when the user attempts to delete a row from an nsoutlineview when it has children.
+animating rows in an nstableview
+rightmousedown: not called in nscontrol subclass
+how to join nsarray elements into an nsstring?
+core data bindings with subviews and multiple nibs
+a view can have a drawer?
+updating nstableview in an instance of nscollectionviewitem
+address bar in cocoa based web browser
+who owns an nswindowcontroller, in standard practice?
+cocoa applications examples
+iphone 3g network problem
+how to have an nsmenu with dynamic actions
+what is stored in ~/library/caches/<my-app-bundle>/cache.db ?
+working around nsfilehandle nstask blocking when passing large amounts of data
+cocoa base 64 implementation for rest auth
+cocoa nib files + localization
+cocoa + display digital certificates
+changing nsapplicationicon across a running application?
+carbon development on intel based mac
+what are the steps to creating an 'executable bundle'
+nsmenu with ibaction method for clicking the menu header?
+cocoa + dynamic text labels on nib file
+how to add a plugin to safari with cocoa?
+nsmatrix and autoresize only certain cells?
+different code / config in release & debug build (obj-c)
+cocoa + nsoutlineview + reloaditem:reloadchildren:
+providing data as needed for qtmovie
+creating a checkbox programatically using cocoa
+cocoa+ unmount removable storage
+cocoa + nsmenu item
+how to change style for nodes in nsoutlineview?
+pboard types will be deprecated
+nspredicateeditor and relationships
+using nsfontpanel in cocoa
+nstableview troubles
+appdelegate or appcontroller
+nsdocument architecture pros and cons
+what is the reason for nsfilemanager's inconsistent use of nsurl?
+setting one side of an nssplitview programmatically
+any reason to use nsviewanimation over coreanimation techniques?
+file conversion using cocoa
+retrieving the selected object in an nsoutlineview.
+cocoa bindings/nstextfield/bindings
+fetch itunes album artwork without itunes running
+how to use native c types with performselectoronmainthread:?
+printing an nsimage
+which implementation of markdown for a cocoa application?
+how to automatically expand all children of an nsoutlineview in cocoa?
+lsopenurlspec error
+cocoa + what ui element should i use?
+how to get started with cocoa application development?
+creating cocoa popupmenus programatically and getting code form a gui item built with the interface builder
+how to get nsimage of generic folder icon on os x 10.5 and 10.6
+cocoa + skip os generated files
+cocoa core data self referential interface builder question
+how to add a menu into the safari menubar or add a button into it's mainwindow?
+open a terminal window to a specified folder from a cocoa app.
+correctly handling mouse events with nscontrol and nscell?
+creating a nag screen for a cocoa app
+testing for writability of bsd socket in cocoa.
+change alpha on main window - cocoa
+concurrent network client in cocoa
+cocoa helper app
+unrecognized selector sent to instance with a drawer
+exc_bad_access when using nsoutlineview
+duplicate records in core data on fetch
+storing modified image in iphone.
+how to get os x to set initial location of nswindow
+how to register new schema in cocoa/objective-c?
+making the text in a text cell change color when the rows checkbox has been checked.
+using calender store.
+nstextview with tokens
+nstableview, multiple cells and bindings
+nstask returning http headers
+retrieving all of an nstreecontroller's objects.
+how to change suffix: bundle into webplugin in the folder products with xcode project?
+what are the most valuable parts of computer science studies for cocoa developers?
+how to debug the main safariplugin project ?
+securing xml plists in cocoa / objective c
+cocoa check for updates
+adding caltasks from an nsarray.
+cocoa menu with images
+keep a reference to a file after it has moved in objective-c?
+what folder should my application write its launchd file?
+how do i help prevent my users from initiating a drag accidentally in cocoa?
+how to highlight a row in nstableview. very simple question
+nspredicate case-insensitive matching on to-many relationship
+get rid of newapplication in a dynamic way?
+cocoa/ objective-c shell command line execution
+comparing two arrays.
+how to define the webpluginmimetypesfilename in the plist of a safari webplugin project?
+receiving keydown and keyup events in a cocoa status bar app
+adding to a tree controller from an nsarray.
+what are the ways to convert/encode to aac in cocoa?
+nstextfield on top of custom drawing - black outline and cursor not blinking?
+setopaque:yes vs clearcolor
+making a nspopupbutton display all my ical calandars.
+making a method happen every 60 seconds when the app is running.
+triggering a method when a row in a table view is edited.

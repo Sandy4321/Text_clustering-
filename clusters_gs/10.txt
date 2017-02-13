@@ -1,0 +1,1000 @@
+what should a longtime windows user know when starting to use linux?
+are there any tools to convert markdown documents to html en masse?
+bash one liner: copy template_*.txt to foo_*.txt?
+bash reg-exp substitution
+getting ssh to execute a command in the background on target machine
+how do i autorun an application in a terminal in ubuntu?
+parallelize bash script
+how to run gpg from a script run by cron?
+how to make a pipe loop in bash
+worth switching to zsh for casual use?
+boolean expressions in shell scripts
+how do i write a for loop in bash
+how do you parse a filename in bash?
+bash script to pack file names
+using the result of a command as an argument in bash?
+can a bash script tell what directory it's in?
+advanced directory switching in bash
+how do i use a pipe in the exec parameter for a find command?
+what are some of your favorite little known command-line tricks using bash?
+what are your most important console aliases?
+grabbing every 4th file
+delete all but the 4 newest directories
+how can i create a command line (unix/linux) instruction that uses variables to execute numerous commands?
+$$ in bash.
+determine if a function exists in bash
+in a bash script, how do i sanitize user input?
+exit shell script based on process exit code
+how do i change the colors displayed in cygwin rxvt?
+spawning an interactive telnet session from a shell script
+how do i escape the wildcard/asterisk character in bash?
+in bash, environmental variables not tab-expanding correctly
+favorite bash prompt
+real-time history export amongst bash terminal windows
+can i pass an arbitrary block of commands to a bash function?
+is it possible to detect 32 bit vs 64 bit in a bash script?
+how to compare files with same names in two different directories using a shell script
+bash variable scope
+how do i remove file suffix and path portion of a path string in bash?
+sync file modification time across multiple directories
+count number of occurences of token in a file
+can i specify redirects and pipes in variables?
+is bash getopts function destructive to the command-line options?
+how do i sort a file in place using bash shell?
+how to removing trailing whitespace of all files recursively?
+escape < and > in sed/bash
+bash script runs from shell but not from cron job
+autoconf using sh, i need shell=bash, how do i force autoconf to use bash?
+bash: start multiple chained commands in background
+how do i iterate over a range of numbers in bash?
+how to prevent a script form running simultaneously?
+how to check syntax in bash (without running the script)
+opening named pipes in non-blocking mode in bash
+how do you handle the "too many files" problem when working in bash?
+what's the difference between "&> foo" and "> foo 2>&1"?
+how do i extract xml properties using shell scripts
+best way to parse command line arguments in bash
+bash: how _best_ to include other scripts?
+in the bash script how do i know the script file name?
+how can i make the "find" command on os x default to the current directory?
+how to copy a file to multiple directories using the gnu cp command
+how do i reuse a command in bash with different parameters?
+what is the best way to perform timestamp comparison in bash
+hidden features of bash
+os x command line text conversion
+how do i print a field from a pipe-separated file?
+how to tell if a sting is not defined in a bash shell script?
+string contains in bash
+how to add a progress bar to a bash script?
+truncate output in bash
+using change directory (cd) inside scripts - best practices
+how do i delete a bash function?
+detecting failure of a bash "export" value
+how to delete files older than x hours
+run command when bash script is stopped
+chroot + execvp + bash
+how to iterate over arguments in bash script
+more efficent shell text manipulation
+going backwards in a bash prompt
+easy parallelisation
+how do you normalize a file path in bash
+how can i automatically quote or group commandline arguments for alias in bash?
+how do i add a directory with a colon to a shell path?
+urlencode from a bash script
+how to escape white space in bash loop list
+bash read inside a loop reading a file
+how do i use regular expressions in bash scripts?
+moving a directory atomically
+how to delete files older than n weeks from a microsoft ftp server
+how to append name of file to end of each line in file
+are there any commands that are usually used for comparing time in bash shell script?
+interesting usage of tar... but what is happening?
+echo "-e" doesn't print anything
+bash if -a vs -e option
+how to close a file descriptor from another process in unix systems
+remove whitespace from bash variable
+remove duplicates from bash history
+how can i remove the first line of a text file using bash/sed script
+how to bind a key to sigkill in bash?
+reducing cpu processing time by using nice?
+how do i get bash completion to work with aliases?
+parsing a line in bash
+writing bash script to change text and write to a log
+"wget --domains" not helping.. what am i doing wrong?
+how to wait in bash for several subprocesses to finish and return exit code !=0 when any subprocess ends with code !=0 ?
+bash scripting..copying files without overwriting
+how do i get both stdout and stderr to go to the terminal and a log file?
+reordering an mbox file chronologically
+shell scripting: die on any error
+how to glob variables in bash script
+how to trim whitespace from bash variable?
+what is the most elegant way to remove a path from the $path variable in bash?
+what is the best way to write a wrapper function that runs commands and logs their exit code
+avoid expansion of * in bash builtin function let
+best way to simulate "group by" from bash
+how do i control a job's "name" in bash?
+detect os from a bash script
+auto complete by end/middle of line in bash
+[bash] fill placeholders in file in single pass
+[bash] escape a string for sed search pattern
+compare integer in bash, unary operator expected
+how do i tell rsync to run only if the destination directory exists?
+build argument lists containing whitespace for other commands
+how can i select random files from a directory in bash?
+what's the difference between .bashrc, .bash_profile, and .environment?
+how to repace ${} variables in a *nix text file
+how can i suppress the output due to a sigsegv or a sigfpe in a fortran 90 program?
+stop echoing ^c to terminal
+append text to stderr redirects in bash
+how can a bash script know the directory it is installed in when it is sourced with . operator?
+removing directories with spaces with bash
+extract substring in bash
+shell script templates
+updating live server from vcs
+ftp not uploading last 4 bytes
+cd doesn't work when redirecting output?
+how to parse rss-feeds / xml in a shell script
+temporary redirection of stderr in a bash script
+bash: how to feed a command with the multiple results generated by one subcommand
+access x11 display from empty environment (bash)
+lambda functions in bash
+shell script for adjusting image size
+what's the difference between $(...) and `...`
+creating indented text with bash
+bash script to create symbolic links to shared libraries
+how would you represent eof in bash?
+parallel processing from a command queue on linux (bash, python, ruby... whatever)
+using bash to fix maildir mtimes problem
+extract all matching substrings in bash
+how to test if a given path is a mount point
+how do i do date math in a bash script on os x leopard?
+how can i ping many subsites ~/[0, 3].html in bash?
+pcmanfm arguements; bash
+problem redirecting a c program output in bash
+environment path loading incorrectly in bash
+how many ways can i get bash alias completion on partial substring
+bash: get list of commands starting with a given string
+bash: get list of variables whose name matches a certain pattern
+xargs doesn't recognize bash aliases
+how to delegate within a crontab to use another file as a crontab? aka crontab in svn/cvs?
+do not try this! the following bash command will spawn processes to kernel death. can you explain the syntax?
+bash completion for make with generic targets in a makefile
+escaping 'run' command line options in cygwin
+how to terminate script's process tree in cygwin bash from bash script
+insert command into bash shell
+find and replace from a bash command
+echo spaces in bash script
+how do you set a directory to have persistent group permissions?
+how to escape extended pathname expansion patterns in quoted expressions?
+how to list running screen sessions ?
+uses for this bash filename extraction technique?
+bash - passing arguments by reference
+how do i redirect stdin from a shell script to a command in the shell script?
+how can i redirect stderr to stdout, but ignore the original stdout?
+control-r reverse-i-search in bash: how do you "reset" the search?
+how can i put $home/opt/git/bin to my path?
+hiding the text before an input to only $-sign in bash?
+how do i check in bash whether a file was created more than x time ago?
+bash script does not continue to read the next line of file
+how can i pass a complete argument list in bash while keeping mulitword arguments together?
+press alt + numeric in bash and you get (arg [numeric]) what is that?
+unix commands that support colours
+turn globed match from case into an array.
+what goodies are present in unix shells sans bash?
+alternate way to trigger reverse-i-search without pressing ctrl+r in bash
+finding files iso-8859-1 encoded?
+another shell open when at server?
+check if a program exists from a bash script.
+is there a good, online tutorial for learning intermediate-to-advanced bash programmable completion?
+problems using git diff to create file list for deploy
+batch renaming with bash
+sort | uniq | xargs grep ... where lines contain spaces
+capturing multiple line output to a bash variable
+bash : how to use screen to have a term session used at home after work?
+how can i cut(1) camelcase words?
+bash scripting - no output, no echo
+problem with bash's command_not_found_handle()
+how can i ssh directly to a particular directory?
+shell command to recursively give permission to directories and files
+unable to move pictures from desktop to a specifig folder
+unable to scp from my server to my computer
+unable to put a .txt -file to the end of another .txt -file
+errors on beginner bash script
+bash history re-runs: possible command to avoid using !bang! ?
+what is the xdg_session_cookie environment variable for?
+redirect stderr and stdout in a bash script
+encoding keyboard command onto bash script
+number of tokens in bash variable
+how do i tell if a file does not exist in bash?
+can you prevent a command from going into the bash shell command history?
+redirect the stdin to come from a different terminal using bash
+how to get all matches from regex?
+problem scripting a html header request with netcat
+how do i sum together file sizes in bash, grouping together the results by date?
+bash: sleep until a specific time/date
+distributing loadable builtin bash modules
+shell script - two foor loops and changing extension of file
+bash ^word^replacement^ on all matches?
+enviroment variable within variable
+how to show relationships between todo-lists?
+find file in directory from command line
+bash: recursively adding subdirectories to the path
+scripting for bash screen
+is [[ ]] preferable over [ ] in bash scripts?
+getting a 'source: not found' error when using source in a bash script
+how to manage long paths in bash?
+redirecting bash stdout/stderr to two places?
+correct bash and shell script variable capitalization
+why can i run a bash function with the 000 permissions?
+bash stacktrace
+removing created temp files in unexpected bash exit
+timeout a command in bash without unnecessary delay
+why can't i use job control in a bash script?
+what are replacement and new practices from sh to bash?
+functionality in .profile (login script) versus distributing to other scripts.
+bash script to find a file in directory tree and append it to another file
+how do i write stderr to a file while using "tee" with a pipe?
+why does wdiff not work with named pipes
+how do i write a bash script to restart a process if it dies?
+validating parameters to a bash script
+how do i schedule a process' termination?
+calenadr calculations in bash
+how do i alter tab autocomplete in bash to dive through folders?
+removing files starting with --
+why is this bash prompt acting strangely/disappearing, and how do i fix it (os x)?
+how to run two processes as though they were one in bash?
+synchronize home directories from multiple clients to a server
+bash - supress notice of forked command being killed
+using the passwd command from with in a shell script
+run the output of a script as a standalone bash command
+bash tab-completion inside double-quoted string
+how to get curl to save to a different directory?
+bash to beep if command takes more than 1 minute to finish
+how can i use lame to encode wav files within a shell script? i'm trying to set artist information via variables with spaces in them. lame craps out. maybe i'm being retarded with bash?
+how can you open files which contain the word "exam" in terminal?
+run bash script as source without source command
+how do you use binary conversion in python/bash/awk?
+multiple commands in an alias for bash
+limiting a script from sending alerts
+syntax error : end of file unexpected (expecting "fi")
+save last working directory on bash logout
+unable to have a tab completion of system variables without a backward flash
+moving files to a directory
+how to enable command line switches?
+remove all .pyc files from a project
+regular expression grabbing x amount of values out in linux bash
+unable to forward search bash history similarly as with ctrl-r
+unable to find release notes for bash
+unable to understand a line in .bashrc
+variables as commands in bash scripts
+bash completion for certain types of files in a special directory
+load the result of an egrep inside a editor (vim/emacs/gedit)
+how do you copy text from firefox in windows to bash shell in unix?
+list directories containinf more than 1 file
+access a variable in a bash script
+parse an email message for sender name in bash
+bash: possible to abort shell script if any command returns a non-zero value?
+bash script parameters
+how can i grab a section of a logfile between 2 timestamps?
+{bash} howto insert a number into a string for wget
+minimal "task queue" with stock linux tools to leverage multicore cpu
+executing commands containing space in bash
+how to use environment variable inside a quoted string in bash script
+like to store all command-line arguments to a bash script into a single variable
+bash in vi-mode: browsing shell history with cursor up/down, cursor position not at the end?
+how do i find my computer's ip address using the bash shell?
+how to use > in an xargs command?
+tricky brace expansion in shell
+script-file vs command-line: problem with rsync and --exclude
+how can i append text to /etc/apt/sources.list from the command line?
+how can i remove missing files with spaces in svn?
+getting sed to replace text with argument
+recommended online resources for learning bash scripting
+a bash one-liner to change into the directory where some file is located.
+why sometimes when i paste a command on my bash prompt it gets executed?
+bash: save in a variable the number of seconds a process took to run
+delete all files/directories except two specific directories
+timing concurrent processes in bash with 'time'
+preserve ls colouring after grep'ing
+why ssh fails from crontab but succedes when executed from a command line?
+bash. test for a variable unset, using a function
+change current directory from a script
+bash: redirect and append both stdout and stderr
+bash check if user mount fails
+in bash, how can i print the first n elements of a list?
+unable to add a parameter to your command in bash
+putting the output of a command with interaction inside a variable while using grep in bash
+how to pipe a command result to a -<character><argument> option? (without spaces)
+how to do a search? (bash)
+how can i keep a file in memory during editing?
+if .bash_profile usually source .bashrc any way, why not just use .bashrc ?
+argument checking problem in bash script
+is it normal for "rsyslogd" to cost 170m memory?
+bash shell for windows?
+how to evaluate a given path within a bash shell
+can ${var} expressions be nested in bash?
+split string based on delimiter in bash?
+bash condition of the form - [ -n "${var:-x}" ] gets evaluated even though var is set
+how to program using cat
+bash - replace all instances of mutliple newline with a single newline
+how do i write a bash alias/function to grep all files in all subdirectories for a string?
+how to check in a bash script if something is running and exit if it is.
+mixing single and double quotations in bash
+how to do gui for bash scripts?
+how to make a php process auto-restart when dead?
+bash customizations
+how can i program ksh93 to use bash autocompletion?
+saving current directory to bash history
+how to debug a bash script?
+redirecting stderr to a variable in a bash script
+extract filename and extension in bash
+how to produce range with step n in bash?
+bash date/time arithmetic
+how to initialize a bash array with output piped from another command ?
+stderr redirection to stdout
+strange error checking if directory exists with bash script
+how to send a sigint to python from a bash script?
+how to extract and chop version string from file in bash
+capturing standard error into a variable in bash
+pushd/popd on ksh?
+gnu screen running a bash init script
+protect against accidental deletion
+bash - redirecting of stdoutput and stderror does not catch all output
+can "nice" and "exec" cooperate in linux?
+how does this bash fork bomb work?
+safe rm -rf function in shell script
+right align/pad numbers in bash
+bash: delete until a specific file
+add (collect) exit codes in bash
+bash: how to traverse directory structure and execute commands?
+is it possible to see output to stdout in this occasion?
+how to replace the "disown" with "screen"?
+check if a function exists from a bash script.
+how to keep a file under n lines long?
+define variable to hold non-current date in bash
+how to scp across servers using bash?
+ls return values
+what does the output mean?
+is it possible to make a bash file run as root in crontab?
+can a bash function be used in different scripts?
+how to check if gcc has failed, returned a warning, or succeeded? (in bash)
+using bash command line, how to add "import package.name.*;" to many java files?
+how do i change bash history completion to complete what's already on the line?
+how to chop last n bytes of a sting in bash string choping?
+bash shell script syntax error
+zip columns from separate files together in bash
+unable to make a if-else loop for google-books in bash
+echo printing variables on single line
+getting the pid of a job launched in the background remotely
+bash: getting standard program for file type
+for loop using find lacks doesn't properly handle directory names having white space character
+in bash, how does one clear the current input?
+undelete the deleted command in bash.
+problem with non blocking fifo in bash
+wait for "any process" to finish
+bash tool to parse csv files
+passing arrays as parameters in bash
+redirecting test output
+bash script what is := for?
+escaping the '\' character in the replacement string in a sed expression
+is there an environment variable that contains the clipboard contents?
+is bash scripting still the way to go?
+go to path and then tar?
+execute a shell command from a shell script without stoping if error occurs
+file reading
+write a shell script that find-greps and outputs filename and content in 1 line
+what's the easiest way to colorize bash shell outputs?
+bash, dash and string comparison
+counting duplicates in a sorted sequence using command line tools
+run bash script from windows powershell
+bash script -- logname validation
+recursively add file extension to all files
+including string expressions in bash commands
+shortest way to swap two files in bash
+capturing output of find . -print0 into a bash array
+shell scripting. command substitution issue in my script.
+bash variables with multiple commands and reentrant
+bash/cygwin/$path:  do i really have to reboot to alter $path?
+bash case syntax - meaning of "-@"
+to bind clear to ^l in bash
+to understand typeset for pythonpath
+wait for bash background jobs in script to be finished
+shell prompt line wrapping issue
+using a bash script on a mac to connect to network shares?
+in a bash script/command how can i make a pc beep noise, or play a sound file?
+properly handling space and quotes in bash completion
+run crontab with user input
+bash script shell input
+recursivley traverse cifs shares
+what does ${2:-${1}} mean in bash?
+sort subgroups of lines with command-line tools
+how to assign a heredoc value to a variable in bash?
+touch files from z->a with a delay
+how to pass long strings for search and replace in a bash, sed, or rpl script?
+if text file is not empty, email me
+automatically timing every executed command and show in bash prompt?
+how do you use shell script variables as arguments to sed?
+newline madness in bash script
+replace output in a loop in bash scripting
+how to insert a new line character after a fixed number of characters in a file
+inserting text to a file with sed within bash script
+check if a string contain asterisk (*)
+generate random number
+bash: run another program in the current directory while running from path
+how can i derefence symbolic links in bash?
+bash script executting su command
+extract filename and path from url in bash script
+check whether stderr is a pipe in bash
+looping over commands to print and execute in bash
+how do i rename a bash function?
+value of global variable doesn't change in bash.
+bash (mac): edit file and some if commands.
+bash: extract last parameter from "$@"
+bash: tee output and capture exit status
+how to record the ouput of executable running with bash script and standard input?
+bash rename files
+how to include a timer in bash scripting?
+bash grep newline
+how can i ensure a bash string is alphanumeric, without an underscore?
+error in bash script while reading a file.
+login to a site and then post to a page in it
+add a single bash command
+getting the index of the substring on solaris
+bash string comparison syntax
+creating a .bashrc function to search through all files for a particular string
+bash == operator in [[ ]] is too smart!
+can you pass stdin into unix host/dig command?
+how can i assign the match of my regular expression to a variable?
+a way to parse terminal output / input ? (.bashrc ?)
+bash, escaping single-quotes inside of single-quoted strings
+how to base64 encode /dev/random or /dev/urandom?
+openssl in bash script
+move files to directories based on first part of filename?
+bash string to date
+how to use expr on float?
+redirecting stdout in a bash file results in a file created even when there is no error. why?
+add to file if exists and create if not
+delete all files but keep all directories in a bash script?
+syntax for a single-line bash infinite while loop
+compilers for shell scripts
+[bash] check if a package is installed and then install it if it's not.
+what does <() do in bash?
+exit status code for expect script called from bash
+how to list variables declared in script in bash?
+how to test filename expansion result in bash?
+bash copy all files expect one.
+reorganize folders with a script
+bash and test-driven development
+bash scripting - how to set the group that new files will be created with?
+bash: how to change the basename only of a list of files
+what is the safest way to initialize bash arrays with quoted values from function output?
+script to recursively delete cvs directory on server
+(less ugly way to) slice an array in bash
+why a hard coded string var is changing when the bash script is run as root ?
+how do i create a directory on remote host if it doesn't exist without ssh-ing in?
+bash scripting call to awk
+bash: error message does not get redirected to file
+bash: merging multiple files given different file name prefixes in an array
+linux command line: split a string
+bash/mysql complains about ) character
+passing bash arguments
+bash script plugin for eclipse?
+changing word delimiters in bash
+bash: measure disk space of certain file types in aggragate
+replace chars in file by index
+command substitution but without breaking output into multiple arguments
+covnerting variable to integer
+bash script to archive files and then copy new ones.
+notify upon background jobs finishing running in bash
+get current working directory name in bash script
+how to detect a build error from ant/maven via a bash script?
+quoting not respected inside a bash variable
+in a bash script, how can i exit the entire script if a certain condition occurs?
+replace important symbolic link ‘safely’
+hide a bash function internals..
+how do i reverse escape backslash ecodings like "\ " and "\303\266" in bash?
+what information can be gathered about remote host on ssh login
+commands from .bashrc not available in emacs
+bash: detect if user's path has a specific directory in it
+how to run processes piped with bash on multiple cores?
+bash - remove non-word characters from a file but keep newlines?
+how do i write a script to ssh to a computer from a remote computer?
+yyyy-mm-dd format date in shell script
+bash : list files by last edited date?
+how to create a bash script to check the ssh connection?
+getting an other program output as input on the fly
+bash - single quote inside double quote for sql where clause
+how to split a file and keep the first line in each of the pieces?
+what's wrong with my bash array?
+compress a mysqldump that is ssh'd to another machine
+source all files in a directory from .bash_profile
+testing for gui in .bashrc
+remove old backup files
+bash script: downloading consecutive numbered files with wget
+bash / php quoting command line argument
+bash: how to flush output to a file while running
+sed replace command inside of a bash script?
+"cp --parents" in ms-dos/vbscript
+how do i make sure my bash script isn't already running?
+bash script for downloading files with curl
+how to rollover the standard output from bash?
+ls only these file types using grep
+awk '{print $9}' the last ls -l column including any spaces in the file name.
+bash mysql query to comma separated file
+extract data from csv in bash script (sed, awk, grep?)
+timing a curl operation in bash
+how to remove large amount of files using rm
+commenting in bash script
+manually iterating a line of a file | bash
+literal quotes in flags for a command in a bash script
+awk pattern macthing
+line of bash code from .configure file
+bash script to perform operation on each argument against the final argument
+how do you execute sql from within a bash script?
+count number of files generated from split command
+how to create argument tokens (c++ in unix)
+how to check if a string has spaces in bash shell
+synchronize shell script execution
+retrieving the first non-option command line argument
+bash: does it support conditional variables like var="test"?"1":"2"
+nested case in bash script
+wildcard expansion - searching for one in a set of possibilities
+how does rubygems modify $path
+need to write a program to sanely configure a login shell
+how to define hash tables in bash?
+how to get the nth positional argument in bash?
+how do i romove specific characters from file names using bash
+how do you call a function defined in .bashrc from the shell?
+awk and printf in bash
+bash return value
+why do processes spawned by cron end up defunct?
+with bash, how can i pipe standard error into another process?
+equivalent of select or poll in bash
+help me make this bash script pretty, or just less ghastly
+bash script for manual routes and default gateway problem
+calling grep from a bash script
+bash - format a textfile - pair every two lines
+bash: echoing an argument after a slash inserts a blank character
+grep with "half"-exact match
+kill process in bash that runs more than specified time?
+bash input/output in c++
+how to run every script in a directory except itself?
+validate emails with bash
+finding a pattern and extracting it into another file using sed in bash
+how to verfiy information using standard linux/unix filters?
+bash: join elements of an array?
+linux: gnu sort does not sort seq
+can bash be configured to search string on the current input line?
+can't read variable that was stored from within a while loop, when out of the while loop.
+de-dupe files in bash
+how would one implement bash-like tab completion?
+printing out names of only directories and not files (bash)
+how to properly make path handling robust in a bash program?
+how can grep interpret literally a string that contains an asterisk and is fed to grep through a variable?
+how do i forward parameters to other command in bash script?
+bash: limit the number of concurrent jobs?
+using conditional statements inside 'expect'
+how to force bash autocomplete to one command ?
+bash script to edit xml file
+preserving whitespaces in a string as a command line argument
+echo in a bash script changing '--md5' to '?-md5'
+bash can not get if to work like i want to
+bash comparing stored "boolean" value with what?
+bash shell scripting - csv parsing
+switch from file contents to stdin in piped command? (linux shell)
+bash: find and copy
+bash scripts : whiptail file select
+handle special characters in bash for...in loop
+how to create a backup of an postgres db using bash?
+copying a directory tree file by file
+how to ask bash to wait for a result and send a sigkill when it get it ?
+problem in running a script
+bash script passing stdin input to a program and giving control back to user input
+list all leaf subdirectories in linux
+bash and filenames with spaces
+using $@ properly (bash)
+how to check for an exploding zip file in bash?
+why does bash sometime not flush output to a file
+how do i use tr to substitute '--' string
+matching a line with a literal asterisk "*" in grep
+appened to /etc/apt/sources.list
+bash globbing - autoexpand for a few specific cases?
+how to supply many argv with one bash var ?
+regex match a string with spaces (use quotes?) in an if statement
+bash : make job every x days
+looking for recommendations on a good bash tutorial
+use bash to read a file and then execute a command from the words extracted
+why aliases in a non-interactive bash shell do not work
+how to filter out a set of strings a from a set of strings b using bash
+inputbox and menubox simultaneously
+how to use sed to test and then edit one line of input?
+connecting two bash commands
+bash loop between two given dates
+bash script to edit a bunch of files
+bash script - select from database into variable
+bash command to open largest file
+who can hack the code to make it work with .icon?
+bash scripting - execute and grep command inside script
+arrange log entries into dated files
+terminate running commands when shell script is killed
+bash loop - tokenize on lines rather than words
+preserving leading white space while reading>>writing a file line by line in bash
+bash: copy named files recursively, preserving folder structure
+why bash ignore newlines when doing for loop over the contents of a c-style string?
+how to get the pid of a process that is piped to another process in bash?
+how to sudo on a computer using ssh inside a bash script
+bash egrep numbers not working in case
+bash menu:  return to menu after selection made and executed?
+shell script sort list
+a script to ssh into a remote folder and check all files?
+bash script to find the most recently modified file
+how to sort by line length, then reverse alphabetically
+indenting bash script output
+accessing ssh key from bash script running via a cron job
+security or other gotcahs in apache-cgi-bash application?
+using file contents as command line arguements in bash
+how to process file names with variables from a list in a file in bash
+bash :: find file in archive from command line
+pass list of variables to bash script
+reading java .properties file from bash
+multi-threaded bash programming - generalized method?
+set screen-title from shellscript
+how can i read a list of filenames from a file in bash?
+bash: what expands to all files in current directory recursively
+lookup shell variables by name, indirectly
+executing for-each in bash
+switch user and output variable contents
+find file launching a process
+the easiest way to replace white spaces with (underscores) _ in bash
+perform or on two hash outputs of sha1sum.
+question about [[]], [] and $#
+can't seem to use bash -c option with arguments after the -c option string
+bash case menu - dynamic choices
+eval to variable failing (w/crontab)
+dynamically building a command in bash
+remove first 4 letters from a folder name using bash scripting
+bash usage of vi or emacs
+how to use ping in a script
+transpose a file in bash
+bash - recursively create nonexistant subdirectories
+see binary instead of hex in binary file while in a shell like bash.
+parse players currently in lobby
+filter hidden files with bash (for batch image resize script)
+strip characters before period if filename has prefix in bash
+extract the last directory of a pwd output
+is it possible to capture bash output into the osx finder clipboard
+redirect output to a bash array
+while executing a shell script in unix bash shell, how is a file location resolved for relative paths? rel. to the script.sh folder or the referenced file's folder.
+bash: assign '&' to variable not as string
+how do i simplify bash's 'eval "$time $bin_file $bin_opts &> $log_file"' and keep it working?
+bash script to watch a folder
+using dos file contents as command line arguments in bash...
+help with selecting rows using awk
+bash: for filename do......
+which programming language has very short context-free grammar in its formal specification?
+[bash] replace a line in a text file
+lines and columns environmental variables lost in a script
+in bash shell script how do i convert a string to an number
+how to gzip every file separately
+choosing rows form a file
+grep-ing multiple files
+bash alias query
+probem with redirecting output
+arrow key via stdin
+is there a better way to erase a line than echo "                                                  "?
+how can i assign the output of a function to a variable using bash?
+looking for book on bash scriping
+execute conky with a cron job and bash
+test a file date with bash
+bash scripting " [!: not found " errors, and how to write an or statement
+how do i include parameters in a bash alias?
+check if mac process is running using bash by process name
+pid of last started process in bash-script
+identify error in if statement
+bash errors in this script ?
+bash: how do i truncate an array?
+awk strftime on mac os x
+bash alias of an svn command piped to awk
+how to determine function name from inside a functoin
+how to grab live text from a url?
+pipelines vs for
+monitoring bash script won't terminate
+bash: hashing multiple files recursively
+how to write bash script to search for ip's in a file and put write them to another file?
+using xvkbd to read a barcode. how to disable enter key?
+how can i use linux to parse out only a section of a variable with different delimiters?
+how can this src vs. build tree timestamp comparison be faster? (bash)
+remove slash from the end of a variable
+simple math statements in bash in a for loop.
+bash daemon named "sh" or "sleep" not the filename....
+detecting program errors in bash scripts?
+making graphs with a shell script
+putting the last command's wall time in bash prompt
+bash environment variables and finding installation directories
+more simple math help in bash!
+add specific directories to bash find command
+bash script doesnt run correctly as background process
+easiest way to extract the urls from an html page using sed or awk only.
+how do i prompt a user for confirmation in bash script?
+a simple small shell script to compute averages
+bash script on a mac creates a info popup
+pick up curent user in bash on a mac
+read file line by line in bash expands special characters
+bash || within if []; block
+how to implement a stdin, stdout wrapper ?
+how to automatically ignore files in grep
+how to upload (ftp) files to server in a bash script?
+how to ssh from within a bash script?
+kill random process with name
+bash completion: what can we do with it, what lies in the future.
+return a regex match in a bash script, instead of replacing it
+make sure int variable is 2 numbers long, else add 0 in front to make it 2 numbers long
+split svnversion output in bash
+locale-aware uppercase in bash?
+randomizing arg order for a bash for statement
+search through a range of directories bash script
+opening terminal windows with bash
+how to get a variable value if variable name is stores as string?
+find out if install script runs on mac or linux machine
+autocomplete for the ruby command in bash
+sequence expression in bash
+bash syntax: what is the "<<"?
+how to confirm a command in every bash loop
+redirecting standard output to the calling process
+little bash script: catch errors?
+bash: add value to array without specifying a key
+bash script to always answer no to any prompt ?
+how to substitute a string in bash script
+how do i check the exit code of a command executed by flock?
+bash script - read binary file
+why is my bash script adding <feff> to the beginning of files?
+cannot scp a path with spaces from bash script?
+bash/sh single-quote, doublequote & backquote question
+bash: convert non-ascii characters to ascii
+split line into words in bash
+split a database of mol2 molecules into n smaller sets
+passing a string with spaces as a function argument in bash
+how to cut some text from string in bash?
+bash combine two arrays
+bash scripting: how do i parse the output of a command and perform an action based on that output?
+how do i use su to execute the rest of the bash script as that user?
+bash function to prompt for and return input
+search multiple php files, and replace text ?
+sed move text to beginning of line?
+bash insert a comma (,) after every third field of a variable or array?
+reading stdin multiple times in bash
+bash: calling a scripts with double-quote argument
+bash: why is echo adding extra space?
+show hexadecimal numbers of a file
+do a complete flux of work on bash script
+how to execute a bash command stored as a string with quotes and asterisk
+unexpected operator error
+mutable list or array structure in bash? how can i easily append to it?
+one line assignment in bash
+bash: recursively remove files
+easy way to split a large text file?
+using find with exec
+awk without printing newline
+how to extract substring from a text file in bash?
+what is '$$' in the bash shell?
+bash script user input and display data.. pls hlep me??
+ending tail -f started in a shell script
+why my bash can't execute r script ?
+search and sort data from several files
+bash or python for extracting blocks from text files
+bash arrays: need help with white space
+bash syntax question: variable in brackets {} with # comments?
+local variable inside  the loop issue
+individually execute all files in a directory
+command line connect to tcp port, read data, match pattern, print true or false
+how to get this bash script to work if the "filename" contains space?
+bash script execution date/time
+how to make this if statement in bash
+display output of a bash command and keeping the output in a variable
+creating a file downloading script with checksum verification
+how to read using "read" from file descriptor 3 in bash script?
+bash scripting problem
+pipe many outputs to same file at the same time?
+if statement error bash
+grepping complex strings in variables.
+replace a particular value in a string of key - values
+how to find duplicate files with same name but different case that exist in same folder in linux?
+how to get the name of the current git branch into a variable in a shell script?
+bash scripting challenge
+calling a python function from bash script
+how to remove command line color highlighting of vista samba shared directories in ubuntu?
+bash output as applescript list problems.
+how to pipe a here-document through a command and capture the result into a variable?
+bash: run command before a script exits?
+how do i execute a command from a specific directory with actually changing to that directory
+how to simulate the environmen cron executes a script with?
+handling metacharacters in search strings
+bash configration question, set alias as a sequence of commands?
+bash for loop with wildcards and hidden files
+email check regular expression with bash script
+susbtitution in sed with spaces
+store line in a string in bash
+bash or python or awk to match and modify files
+bash plugin help: auto insert closing bracet with cursor in middle
+display characters of a variable
+parse a dhcpd.lease file with bash
+how can i hide a password/username used in a bash script for accessing mysql?
+control processes started by bash daemon
+caret search and replace in bash shell
+how to automatically add user account *and* password with a bash script
+mini project: change the color of the terminal based on the time of day
+bash open firefox window, then each subsequent window in tabs
+bash, find files which contain numbers on filename
+how do i check in bash if a process (or one of its children) is actually doing something (cpu/io)?
+horizontal scroll in a bash window
+writing bash script to read, compare, and verify external ip address.  need help.
+program interaction and testing via bash script
+bash script to restart apache automatically
+best output format for xargs
+cmdline bash variable weirdness
+bash rename extension recursive
+set values to elements of an array in a function
+string comparison in bash
+how to create folders using file names and then move files into folders?
+ignore/prune hidden directories with bash find command
+linux shell scripting
+solaris echo " [ " character problem
+how to call bash script
+how to change icon/emblem of a directory from bash
+for loop in bash script
+simple way to convert 00:20:40.28 (hours:minutes:seconds.split seconds) to seconds
+count specific word in line in bash
+run bash with redefined ps1 env variable
+double or single bracket, parenthese, curly bracket
+how to set an alias inside a bash shell script
+bash: copy a folder full of files and folders to an external hdd, but only if there is enough space to complete the copy.
+bash - how to call a fuinction declared in a parent shell?
+passing bash variables to ssh
+how can i tell bash to properly esacape expanded strings?
+using awk (or sed) to remove newlines based on first character of next line
+bash: test whether string is valid as an integer?
+how do i paste text to a line by line text filter like awk, without having stdin echo to the screen?
+match url link from input string
+how to exit all the calling scripts in bash?
+bash: how _best_ to create a script from another script
+simple question: how to make a bash script that creates 40 simultaneous instances of a program?
+extraction of data from a simple xml file
+basics of using cut awk grep and sed...
+ignore a path entry with bash tab-completion
+using linux "cut" with stdin
+how can i find out a files "mime-type(content-type?)"?
+how to get the ip address from $ssh_client
+how can i compare strings in bash script?
+paste to codepad.org using bash or curl
+undeletable file due to backup script
+bash script to setup a temporary ssh tunnel.
+technique to compute next day's date from a date supplied via an arg?
+problem with temporary unnamed pipe in bash script
+bash: space in variable value later used as parameter
+how do you append to an already existing string?
+sed replace ' with \'
+bash file attribute gymnastics: how do i easily get a file with full paths and privileges?
+how do i set environment variable completion in a bash shell on mac
+running two bash commands simultaneously on two different computers from one script
+bash threading: wait for all job threads to finish doesn't work?
+bash, numeric prefix for emacs bindings?
+pipe bash output to two different streams
+can we change the day and time of  a schedule task which is already created
+bash script calls another bash script and waits for it to complete before proceeding
+email from bash script
+bash script with find command drops me to bash shell
+bash alias to python script -- is it possible?
+how do i edit the output of a bash script before executing it?
+unix commandline history substitution ^foo^bar (for multiple replacements)
+how to echo directories containing matching file with bash?
+bash case statements evaluate to strings
+bash: how do you "split" the date command?
+is there a convention for naming 'private functions' in bash?
+how to write a bash script to get the time on another linux server?
+how to silent output in a bash script?
+query in shell script
+what is the proper indentation for bash scripts?
+using bash to get revision number from subversion
+bash and mac os x, open application in space n
+storing files inside bash scripts
+compare/difference of  two arrays in bash
+so how to make mac recognize linux bash?
+how do i synchronize (lock/unlock) access to a file in bash from multiple scripts?
+bash script directory detection and creation
+status bar in bash
+bash command to repeatidly emulate keypress on a proceess
+while loop never ends
+bash scripting and bc
+pipe java to grep: why not working?
+what is the most compact or efficient way of doing several subsitutions in a file in bash
+can i read line from a heredoc in bash?
+add spaces to the end of some bash autocomplete options, but not to others?
+what does the amphersand indicate in this bash command 1>&2
+how to pipe stderr, and not stdout?
+picking a random line from stdout
+command-line parameters in shell script?
+bash while loop calling a python script
+bash scripting, checking for errors, logging
+bash: subprocess access variables
+issue with echo and tab in bash
+how to convert timestamps to dates in bash?
+custom script in .screenrc
+running a bash script over ssh
+reading multiple lines in bash without spawning a new subshell?
+bash substituion; remove everything after the string
+functions in bash with special parameters
+concatenate strings in bash
+auto confirm eula in bash script
+bash, argument list segment
+how to let putty change its cursor shape accordingly?
+bash variable expansion
+negate unsigned number in bash
+is it possible for bash commands to continue before the result of the previous command?
+using a filename with spaces with scp and chmod in bash
+bash or php script to execute stocked procedure on sql server
+calculate difference of numbers in two files
+processing a log to fix a malformed ip address ?.?.?.x
+how to use a pipe in a foreach statement
+cd option in bash script
+a sufficant way to show logs in a graphical interface using whiptail bash
+bash+cron: redirecting, and restoring, stdout and stderr produces permission denied
+bash ps1 settings - how to get the current folder back as the terminal title
+bash: redirect (and append) stdout and stderr to file and terminal
+escaping 'echo' in batch files
+how do i preserve newlines in a quoted string in bash ?
+bash shell function error : command not found
+how to match string/dir in a path using bash scripting
+bash: $[<arithmetic-expression>] vs. $((<arithmetic-expression>))
+rename several files in the bash.
+passing variable through ssh doesnt work
+how can i create a temp file with a specific extension in bash?
+bash: filter away consecutive lines from text file
+using a dictionary file with sed
+does anyone have experience with clusters running on clustervisionos?
+floating point comparison in shell script
+turn off error messages in a bash script
+formatting with echo command
+import files directly to svn repo without checking out first
+redirect stdout and stderr to a single file with prefixes
+need help understanding a bash command
+what is the best, python or bash for selectively concatenating lots of files?
+what happened to the tmp environment variable?
+find declaration and definition of function using bash
+how to get the call graph of a program and with a bit of profiling information
+how to search an expression in a file from a bash script?
+how to get the first line of a file in a bash script?
+send a command to a process
+better way to make a bash script self-tracing?
+how to retrieve the first word of the output of a command in bash?
+how to build a conditional assignment in bash?
+how to replace a line in bash
+how to get physical memory in bash
+bash init.d script detect that mysqld has started and is running
+bash: easy way to put a configurable load on a system?
+howto pass a string as parameter in awk within bash script
+use a cat + grep as an included source in bash
+mixing regular expression and other conditional expression in a bash if statement
+fastest wat to sort files
+variable assignment in bash
+find float in a text file
+substitution till the end of the line in bash
+substitution after the end of the word
+extract substructure from a text file using bash or python
+bash: for loop, copy, backup
+removing final bash script argument
+editing history in bash
+cat with new line
+bash: syntax error: redirection unexpected
+bash: ambiguous redirect
+modify comfig file using bash scirpt
+can this be done by sed?
+how to kill all asynchronous processes
+how to parse post data in a cgi script with bash scripting?
+messy bash variable
+temporary operation in a temporary directory in shell script
+improved technique to store a filename in a variable?
+awk my number, im supid in bash
+bash loop command until file contains n duplicate entries (lines)
+bash scripting: i want to open a set of .php files, and add line before html tag
+how do i use a file grep comparison inside a bash if/else statement?
+bash: how to process variables from an input file?

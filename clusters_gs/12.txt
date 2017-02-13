@@ -1,0 +1,1000 @@
+querying collections of value type in the criteria api in hibernate
+getting hibernate to log clob parameters
+maxelementsondisk from ehcache to treecache
+is it possible to use analyic functions in hibernate?
+is it worth the effort to move from a hand crafted hibernate mapping file to annotaions?
+multiple session factories under spring/hibernate
+case-insensitive search using hibernate
+do you have a common base class for hibernate entities?
+what are the differences between the different saving methods in hibernate?
+how to transfer data from one database to another with hibernate?
+is there a more efficient way of making pagination in hibernate than executing select and count queries?
+add (external) relationship (tagging) to existing hibernate entities
+hibernate mappings with a descriminator
+why does hibernate try to delete when i try to update/insert? wtf?
+hibernate: comparing current & previous record
+usertype join in hibernate
+hibernate: criteria vs. hql
+hibernate delete cascade
+strategies to avoid hibernate  lazyinitializationexceptions
+how to use hibernate @any-related annotataions?
+how to stop hibernate from eagerly fetching many-to-one associated object
+no suitable mysql driver found for jboss application
+creating a custom hibernate usertype - what does ismutable() mean?
+hibernate returns invalida results with composite key.
+do you always use a second-level cache in hibernate?
+setting fetchmode in native hibernate
+orm criteria question
+hibernate crud à la ruby on rails' scaffolding
+what are the disadvantages of auto generating the clases in hibernate
+spring & hibernate ejb events
+mapping multi-level inheritance in hibernate
+querying manytomany relationship with hibernate criteria
+session management using hibernate in a swing application
+why does hibernate/jdbc/mysql drop connections after a day or so?
+hibernate jpa sequence (non-id)
+merge with hibernate causing error with dirty objects
+hibernate jpa to ddl command line tools
+audit schema mapping with hibernate
+persisting using hibernate/jpa
+how to assign date parameters to hibernate query for current timezone?
+hibernate: avoiding reading all the records to memory at once
+hibernate.hbm2ddl.auto how does hibernate decide when to create or update the ddl?
+how to get distinct results in hibernate with joins and row-based limiting?
+hibernate-like framework for c++
+hibernate annotation placement question
+hibernate auto-discovery and generation of of database mappings to pojos
+need an example of a primary-key @onetoone mapping in hibernate
+hibernate group by time interval
+hibernate and oracle native functions
+hibernate: parse/translate hql from part to get pairs class alias, class name
+issue with serializing hibernate objects using xstream
+using min, max and count on hql
+is hibernate good for batch processing?  what about memory usage?
+"session closed" error when trying to get a blob from db using getbinarystream()
+what is first and second level caching in hibernate?
+hibernate: lazyinitializationexception: could not initialize proxy
+problem connecting to a remote database using hibernate
+how can i represent many to many relationship to the same table/entity in hibernate?
+hibernate: how to make hibernate delete records from child table when deleting parent if child is linked to parent with many-to-one?
+how do i map a hibernate timestamp to a mysql bigint?
+(n)hibernate: core/master mappings with relationships
+combo boxes with hibernate
+storing dates in oracle via hibernate
+how can i set the schema name used by hibernate entities at query time?
+hibernate criteria - querying tables in n:m relationship
+table per concrete class hierarchy in hibernate
+can hibernate return a collection of result objects other than a list?
+enumerations in hibernate
+problem with "not (a, b) in (select ...)" in jpa query using hibernate entitymanager
+how to do custom-query based collection mappings in hibernate?
+double-logging in hibernate
+self-referencing updates in hql
+configuring hibernate logging using log4j xml config file?
+how do i map a char(1) to a boolean using hibernate for java?
+hiberate problems, jdbc identity_insert is set to off
+is there a good reason to configure hibernate with xml rather than via annotations?
+hibernate criteria api - having clause work arounds
+hibernate daily builds
+hibernate/spring application - export to csv
+hibernate flush doesn't update database
+map (key ,value)
+how to add fields dynamically  when using hibernate
+hibernate performance tweaks
+hql query using group by
+hibernate and ids
+best strategy to multiple crud with jsf
+hibernate id generator
+mapping a bidirectional list with hibernate
+hibernate one-to-many unidirectional on an existing db
+how do i use the current date in an hql query with an oracle database?
+how do i map a map from an entity to a value with hibernate annotations?
+hibernate/nhibernate mapping file editor
+spring vs hibernate
+making hibernate not include fields from joined tables in select clause
+how do i get sql string from an hql query?
+jpa and hibernate fetch ignoring associations?
+hiberate: collections of collections
+going transactionless with hibernate
+what's the difference between different mapping types in hibernate?
+how to get sql from hibernate criteria api (*not* for logging)
+how to limit user access at database level in hibernate
+recording test data in hibernate
+fixing warnings from hibernate
+how to do orm for this situation?
+hibernate - declariing a transient object in a pojo
+ehcache / hibernate and rmi replication with large number of entities
+hibernate hql query : how to set a collection as a named parameter of a query?
+how do sychronized static methods work in java?
+hibernate next/previous sibling mapping
+hibernate not respecting mysql auto_increment primary key field
+how to remove trailing whitespace in a database column?
+hibernate annotations - which is better, field or property access?
+how do i externalize named queries in a hibernate annotations app?
+hibernate: identifier
+enum tables in hibernate/nhibernate
+hibernate: load a field from a query , but don't insert it to the table
+hibernate hql: two levels of joins
+hibernate: is there a way to programatically create new tables that resemble an existing one?
+hibernate: difference between session.get and session.load
+in hibernate statistics whats the difference between load and fetch
+hibernate: how to map a *.hbm.xml file in a different folder?
+hibernate fetching strategy - when to use "join" and when to use "select"?
+hibernate sql audit logging
+how do you prevent hibernate/oracle from converting strings with only spaces to null?
+zero downtime with hibernate
+hibernate is calling public methods on the entities after a query, why?
+transaction timeout not working on hibernate with oracle
+optimisticlockexception when trying to fetch data from postgresql
+can i specify a hibernate relationship with a filter?
+hibernate query runs slow in the system, but fast when run directly.
+"cached item was locked" + hibernate
+hibernate tutorials
+how to find a jndi resource inside the hibernatetool ant  task
+hibernate <generator class="" > when is it best to use what?
+hibernate: retrieve rows that are not joined
+oracle deadlock when hibernate application loading data for readonly use
+hql order by within a collection
+hibernate not reflecting changes
+using hibernate criteria, is there a way to escape special characters?
+how to import initial data to database with hibernate?
+changing a hibernate many-many mapping based on software license flags
+grouping in hibernate - stupid question
+using an enum as a mapkey results in a raw in the database
+hibernate annotations, autoincrement related
+hibernate: persist an object as a string?
+hibernate uses initial where clause in subsequent queries
+hibernate object vs database physical model
+treat '0',"-1" as null
+hibernate mapping file with dependancies to existing tables/pojos
+manipulating hibernate 2nd level cache
+hibernate: mapping one-way redundant columns
+problem using @secondarytable in hiberante
+hibernate: threadlocalsessioncontext: already session bound on call to bind()
+hibernate + annotations + validator: length constraint inside embeddedid ignored by hbm2ddl
+how to avoid stale mysql/hibernate connections (mysqlnontransientconnectionexception)
+hibernate, c3p0, mysql -- broken pipe
+how to update a database schema without losing your data with hibernate?
+hibernate/mysql connection pooling
+hibernate: how declare foreign key without having to code association methods in the domain object?
+composite key with hibernate
+hibernate: update to sum from other table
+how do i make/develop hibernate caching?
+hibernate polymorphism: instantiating the right class
+no currentsessioncontext configured
+hibernate 2nd lvl cache
+hibernate status
+jpox jdo and castor jdo compared to hibernate persistence
+implementing audit trail- spring aop vs.hibernate interceptor vs db trigger
+using spring + hibernate transactional cache in tomcat?
+hibernat sesson problem new
+hibernate dao desugin
+hibernate: lazy-loading doesn't work on one-to-many mapping on set
+hibernate dao
+hibernate lazy initilization problem
+hibernate - @manytomany with additional fields in mapping entity
+hibernate open session in view
+how can i configure hibernate to use context-specific connection information?
+hibernate lazy solution. is it right??
+hibernate hbm2hbmxml
+jpa hibernate one-to-one relationship
+get the entity previous  version in hibernate envers
+does an orm integrate with existing applications or do i not understand?
+map a list of strings with jpa/hibernate annotations
+hibernate with relations
+how can i create a hibernate collection that will be re-read every time i request it?
+hibernate doesn't save and doesn't throw exceptions !?!
+using hibernate hbm2ddl.auto=update : how can i alter column not to require value anymore?
+myeclipse hibernate does not order property sets by id?
+hibernate deletion
+hibernate result ordering
+hibernate sorting
+hibernate @version field error
+hibernate deletion problem please help urgent
+how to determine collection changes in a hibernate postupdateeventlistener?
+best place for index call when using hibernate
+how to create a hibernate idbag with a collection-id that has a default value?
+hibernate versioning issuing update statment for no reason
+hibernate one to zero or one mapping
+how to insert record in join table of many to many  hibernate annotation
+problem when retrieve data from hibernate many to many relationship
+how do i change hibernate logging level
+one-to-many mapping // how to map an association of legacy tables (hibernate)
+create hibernate collection on two columns
+hibernate: mapping 3 tables
+hibernate/nhibernate : how to persist subclass as instance of superclass
+jpa map<string,string> mapping
+how can i optimally update a single property in an object using hibernate?
+hibernate l2 caching and many-to-many relationships
+obtaining an object state
+hibernate order by association
+manual initialization of required hibernate database tables
+hibernate "preinsertevent.getsource()" nosuchmethoderror.
+how to get value form 2nd table with out join in hibernate
+will hibernate update the database when a persistence instance has been set but not changed?
+detached objects in jdo/hibernate - what are they for anyway?
+why would spring's hibernatetemplate's loadall() method generate updates for each row?
+interceptor's getentityname is not used. bug in hibernate?
+understanding jasperreports and jrbeancollectiondatasource...
+how to do hibernate mapping for table or view without a primary key
+hibernate onetomany list ordering persisting but reversing?!
+hibernate query for entity based on whether related entity property is null?
+what is the best way to pull data out of the hibernate layer and into another tier?
+hibernate in glassfish - ejb3configuration noclassdeffounderror
+hibernate calls flush on find- causes not-null error
+how do i restore a transient field in hibernate like readresolve() for hibernate serialization?
+elegant ways to handle database views on hibernate entities?
+list sorting and ordering problem...
+hibernate: delete where record field < getdate()
+jasperreports jrbeancollectiondatasource still confused...
+how to verify correct operation of hibernate second level caching in a cluster?
+why do associated collections contain null values? (hibernate, annotation, spring)
+is there any way to declare final fields for hibernate-managed objects?
+workarounds for hibernate's lack of delete-orphan support for one-to-one and many-to-one relationships?
+getting unique result in hibernate
+hibernate one-to-one or component?
+using @table with schema name in hibernate 3.3.1ga and hsqldb
+manytomany in hibernate without composite keys
+hibernate embeddable inheritance
+lazyinitializationexception with session scoped bean
+left outer join fetch doesn't fill map collection properly (hql)
+hql query equivalence: why are them different
+custom joins entitys on hibernate
+hibernate getting id from createcriteria() result
+how to fetch hibernate query result as associative array of list or hashmap
+hibernate specific ddl generation
+hibernate cascade question
+how i can disable the second-level cache of some certain entities in hibernate with changing annotations
+hibernate auto join conditions
+indexing data in hibernate search
+hibernate - selecting across multiple joins with collections
+how do i map a nested collection, map<key,list<values>>, with hibernate jpa annotations?
+hibernate/jpa - annotating bean methods vs fields
+comparing entities while unit testing with hibernate
+hibernate mapping a second @embeddable field in a subclass
+hibernate table per hierarchy how to
+expressions in hibernate criteria
+proper way of writing a hql in ( ... ) query
+how to lazy load a one-to-one composition via hql
+hql order by qurey giving problem
+hibernate load usertype object from repository
+how to avoid hardcoded field names in hql, hibernate?
+hibernate error: cannot resolve table
+how to create hbm files from java files??
+in memory filtering of not persistent collection with hibernate
+hibernate query problem, so close and stumped...
+hibernate not using where clause with inner join
+hibernate polymorphism
+hibernate polymorphic query
+how to construct a hibernate query that uses a single element of all elements in a collection?
+going from php propel to java hibernate
+rolling back foreign key relationships with hibernate
+hibernate cascade deletion
+hibernate cascade deletion  example
+hibernate criteria query with restricted associations
+how to maintain null for numeric values when using beanutils.copyproperties?
+using different hibernate user types in different situations
+cascading updates with business key equality: hibernate best practices?
+hibernate example onetomany with compositekey
+getting hibernate to do simple updates, instead of enormous select then updates...
+what's the default value of the hibernate property hibernate.jdbc.factory_class?
+hibernate unidirectional parent/child relationship - delete() performs update on child table instead of delete
+bypassing delete_orphans in a transaction when moving objects from one parent to another, hibernate.
+hibernate query hints for jpa
+hibernate findbyid isn't finding records that it previously found
+how to map a set of objects in hibernate without primary keys being equally named?
+hibernate annotation join table question
+what the heck is a jpa configuration?
+why size of lucene index increased if i index the same data?
+hibernate ordering
+hibernate query (not sql) logging
+hibernate set mapped to a 'sql select' table
+how to use hibernate interceptors to populate extra fields in a join table?
+what is the proper jpa mapping for @id in parent and unique sequence in base classes
+how to perform date operations in hibernate hql
+hibernate @orderby with referenced class
+duplicate entry error in mysql/hibernate
+hibernate dynamic instantiations with collections, is it possible?
+hibernate: specifying columns in a one-to-many relationship
+using hibernate with dynamic eclipse plug-ins
+how to add greater than/less than to hibernate filters
+disable hibernate auto update on flush on read only synonyms
+using ms sql/oracle's xml datatype in hibernate
+how can i create a ddl for my jpa entities from java code?
+getting the return value of a pl/sql function via hibernate
+queries in hibernate polymorphism
+hibernate and jpa - error mapping embedded class exposed through an interface
+hibernate error : caused by: org.hibernate.nonuniqueobjectexception: a different object with the same identifier value was already associated with the session:
+mysql enum with hibernate
+hibernate not fetching public member
+hibernate getting on my nerve. delete question on one to one relationship.
+hibernate one to one mapping example
+hibernate session / transaction design
+hibernate for stored procedure access
+hibernate: query entities which contain a specified element in a collectionofelements?
+hibernate collectionofelements eager fetch duplicates elements
+hibernate basic: how to query when there is a composite id
+hibernate: sorting by a field from a linked table if foreign key is null
+how to implement this query in hibernate?
+hibernate property based on sum
+class not found exception in hibernate
+how can hibernate map the sql data-type nvarchar(max)?
+why is hibernate open session in view considered a bad practice?
+hibernate bidirectional parent/child problem
+hibernate save strange behaviour
+hibernate insert into select
+how can hibernate access a private field ?
+importing and normalising xml with hibernate
+hibernaqte exception :org.hibernate.exception.sqlgrammarexception: could not execute query
+changing the type of an entity preserving its id
+creating object from hibernate mapping
+specifying constraint name in hibernate mapping file
+how to map a set of enum type in hibernate?
+map database column1, column2, columnn to a collection of elements
+unreliable hibernate objects
+loading javassist-ed hibernate entity
+hsql subqueries
+lazily loading a clob in hibernate
+hql problem
+how to make divide(column1/column2) in hibernate criteria projections
+@manytomany hibernate question (can add extra field?)
+problem with basic attributes java.sql.blob
+does anyone know if hibernate and java will work effectively with access?
+can use hibernate and tomcat connection pool at same time?
+spring user transaction with hibernate
+hibernate manytomany
+hibernate save object question
+was 6.1, hibernate, spring and transaction managmement configuration
+problem with utf-8 in create schema by hibernate
+store and retrieve image by hibernate
+hibernate multi level of transaction
+using maven in hibernate tutorial
+how configure hibernate for develop test
+hibernate manytomany with join table problems on update
+equinox (osgi) and jpa/hibernate - finding entities
+problem saveorupdate object hibernate (a different object with the same identifier session)
+hibernate custom type definitions
+getting duplicate entry errors from hibernate, is mysql to blame?
+hibernate @onetomany with mappedby (parent-child) relationship and cache problem
+hibernate transaction duplicate problem
+hibernate second level cache <<net.sf.ehcache.hibernate.ehcacheprovider>>
+hibernate vs cfquery
+hibernate object identity question
+how to achieve "not in" by using restrictions and criteria in hibernate?
+hibernate oracle and character encoding
+hibernate: is this mapping allowed?
+how can i use maven to get the latest hibernate release?
+how do i retrieve the class name from hibernate?
+hibernate 'tableless' enum mapping?
+hibernate: bad performance when removing element from many-to-many relation.
+hibernate many-to-one hql query, when inner join fetch property not associated
+spring 2 hibernate annotation
+clone a table's definition with hibernate (hbm2ddl)
+hibernate cannot remove child from database
+hibernate one to many using something other than a primary key
+how to integrate hibernate with jboss 4.2.x server?
+hibernate criteria api - how to order by collection size?
+hibernate - how to cascade delete on detached objects
+hibernate (with annotations) - how to get started
+hibernate doesn't notice database updates made from other source
+hibernate manytoone relation to a joined subclass type
+hibernate oracle tablespace annotation
+jpa/hibernate: can i have a parent without annotations and a child with
+hibernate @onetomany - mapping to multiple join tables
+does hibernate's mappedby automatically makes applications buggy?
+table name troubles with hibernate named query
+hibernate and sql server best practicies
+hibernate + ehcache, keep missing the cache
+hibernate join tables duplicate entry - could not execute jdbc batch update
+hibernate increment starting number
+hibernate annotation many to many delete problem
+how to work with zero dates ("0000-00-00") in hibernate?
+retrieve all foo from hibernate second level cache without a query cache?
+hibernate criteria contains-in on an association to a table
+mapping to varchar and nvarchar in hibernate
+hibernate unidirectional one to many association - why is a join table better?
+which pattern does hibernate follow?
+hibernate @onetomany without a separate join table
+joining two tables over a compound index in hibernate
+many-to-many the same pk
+get annoted hibernate tablename from pojo
+how to get hibernate-entitymanager to work with jta out of jboss?
+inserting a generated value into a hibernate record
+can i make an embedded hibernate entity non-nullable?
+how to insert an "optimizer hint" to hibernate criteria api query
+hibernate: batch_size? second level cache ?
+custom onetoone hibernate/jpa association
+how do i rewrite this hibernate-mapping with annotations?
+why the name 'hibernate' chosen for hibernate?
+hibernate workflow
+select in hql (hibernate)
+hibernate l2 cache on cluster
+hibernate entitymanager + jotm: transactions are not used
+update of of composite entity fails
+hibernate mapping class
+hql 1 to many count() question
+hibernate or jdbc
+transactional l2 cache in hibernate
+how to map inner object using hibernate/jpa without xml/annotation?
+persist collection fields with hibernate
+transactional strategy for hibernate l2 cache
+why do we use hibernate annotation?
+how do we count rows using hibernate?
+hibernate mapping inheritance
+how do you programmatically turn off eager fetching with hibernate?
+inheritance via hibernate annotation
+determining manytomany vs onetomany using classmetadata
+can i have a collection of iusertype instances?
+table not created by hibernate
+what is difference between delete_orphan and delete ?
+attempt to create saveorupdate event with null entity
+commandline equivalent to reverse engineering in hibernate tools?
+@onetoone getting returned as manytoonetype
+hibernate not throwing exception when opensession is called and the connection to db cannot be established
+auto generating hibernate entities
+cast(val as char) in hibernate config named query
+jpa entitymanager, how does it work??
+hibernate with tomcat vs hibernate with jboss
+loading hibernate property from an external source (hashmap)
+why does hibernate not find properties when i have hibernate.cfg.xml in my default package classpath?
+hibernate entity sort column configuration
+can hibernate's @version consider changes in related entities?
+using hibernate sequence generators manually
+can't create foreign key
+hibernate security apprehension: hibernate vs. stored procedures
+hibernate 2nd level cache not caching committed entities
+good object structure for results of my hibernate left outer join
+a stackoverflow mapping (hibernate)
+hibernate logging with log4j
+what is the missing parameter in connection pooling?
+hibernate mapping package
+hibernate search annotations not inherited
+how to use the hibernate optimistic locking version property on the front end?
+native stored proc v/s hibernate
+mapping a list in hibernate by ordering instead of an index-field
+nhibernate one-to-many relationship lazy loading when already loaded
+how can i decide the no of connection required in connection pooling?
+about hibernate namednativequery
+hibernate mapping error
+[basiclazyinitializer] javassist enhancement failed
+how do you enable hibernate query cache on a session level only?
+hibernate createsqlquery bulk insert
+hibernate update with 1:many mapping
+cannot run jboss cache as a second level cache for hibernate in jboss 5
+hibernate template close transaction
+when i set nhibernate "adonet.batch_size" the sql not logged any more.
+generate value for a property in hibernate
+mapping a natural key with hibernate annotations
+how to detect transaction conflicts with hibernate?
+hibernate lazy initialization help
+hibernate ignores fetch="join" on a collection when navigating the object tree with iterator
+hibernate self join
+how to add a hibernate property that's really a query
+changing target table for hibernate mapping
+how do i make my pojos transactional?
+hibernate: clean collection's 2nd level cache while cascade delete items
+handling multiple databases with hibernate in a single application
+nhibernate using single configuration file to connect to multiple dbs
+hibernate query by example (from spring 3)
+retrieve emebedded or component using hibernate criteria api
+hibernate does not maintain reference. do you know why ?
+hibernate usertype nullsafeset - how to know if called for insert/update or select
+attributes on many-to-many relationships (hibernate)
+@foreignkey in hibernate 3.5-beta1
+hibernate: foreign key has the wrong number of columns
+how do i join tables on non-primary key columns in secondary tables?
+why does hibernate-entitymanager-3.3.2.ga depend on hibernate-3.2.6.ga?
+proper way to autowire a hibernate session in a spring transaction junit test
+hibernate criteria - exclude records with same id but different attribute values
+how to change hibernate's default fetching strategy?
+hibernate hql problem using case keyword
+hibernate named query parameter
+on string creation for queries in hibernate and whether those queries would reduce object creation if they were final static
+why doesn't the jpa spec (including 2.0) or hibernate extension allow u to specify a generator e.g. oracle sequence for the @version annotation
+mocking a hibernate custom value type
+what are good video tutorials for hibernate ?
+hibernate default joining for nullable many-to-one
+need help with some hibernate relational mappings
+hibernate criteria query - class cast exception
+hibernate criteria query on different properties of different objects
+hibernate inheritance strategy and why
+how to use join in an hql update?
+hibernate transaction boundaries
+hibernate mappings: splitting up the file
+cascade on many-to-one association in hibernate
+mix hql and sql in the same query
+hibernate mapping for situation, where the the key is also used as many-to-one parameter
+throwing specific error messages in plsql oracle...catching in hibernate?
+how to determine optimum prepared statement cache size when using hibernate
+hibernate immutable value object
+hibernate: event listener or interceptor, what are the pros/cons in practice?
+hibernate queryexception couldn't resolve property
+hibernate with zk
+hibernate case-insensitive utf-8/unicode collation that works on multiple dbms
+compute child table values in formula field of hiberntate
+hql join fetch question: aliasing association
+hibernate inheritance mapping and attribute override
+hibernate - how to use an enumeration as map's key
+hibernate and spring persistance problem.  possible identity value not incremented?
+hibernate:  projection of a many-to-one in a criteria
+hibernate: unmapped class association exception
+table called group, hibernate, db2 and hsql
+hibernate detachedcriteria in from clause
+hibernate: id generator using increment and oracle schema
+entity intercepted when a collection element updated
+is hibernate entity callback methods are only called by using entitymanager
+how to know a entity is going to insert or update
+how to limit fetching of entities from sql query.
+retrieve auto-detected hibernate dialect
+how to query distinct values from map with given key in hibernate?
+connection reset by peer error
+update father on interceptor
+hibernate annotations generating query that produces sqlgrammarexception
+hibernate unable to start on large-scale database
+insert low_priority or insert delayed in hibernate
+design pattern for translatable hibernate models
+is there a helper to know whether a property has been loaded by hibernate ?
+@immutable vs @entity(mutable=false) in hibernate
+issue using hibernate criteria object with composite key
+does fluent-hibernate exist?
+hibernate cannot recover after socket has timed out
+problems with arraylist items and hibernate
+how to retrieve data which caused unique constraint violation (via hibernate)?
+hibernate question
+hibernate sessionfactory
+using entity id as a reference in hibernate
+implementing result paging in hibernate
+java coding best-practices for reusing part of a query to count
+hibernate hql query - complicated
+hibernate 2nd level cache invalidation when another process modifies the database
+how to create and read a sequence in hibernate?
+dynamic mapping in hibernate?
+weaknesses of hibernate
+hibernate with oracle jdbc issue
+hibernate constraint violation/error rolling back
+hibernate takes 10 mins to throw exception when database is down
+hibernate constraintviolationexception in join table
+problems using eclipse hibernate plugin - could not locate sessionfactory in jndi
+hibernate hql elements error
+hibernate: connect to mysql without username or password
+upgrade hibernate-annotations and hibernate-validator
+hibernate exception
+hibernate-validator: @notempty does not work for null values
+how to configure hibernate with eclipse galilio
+trouble with writing hibernate query
+sqlite dialect error with hibernate
+hibernate lazy loading
+hibernate property formula how 2 get more than 1 row?
+hibernate how to retrieve a hierarchy object
+onetoone mapping with hibernate/jboss/seam
+equals and hashcode in hibernate
+hibernate on hypersonic in prodaction?
+@secondarytable annotation problem
+hibernate on oracle: mapping string property to clob column
+fetching join using @jointable with sqlquery
+does hibernatetemplate work with envers? if so, how?
+help with hibernate collection foreign key mapping
+hibernate detached queries as a part of the criteria query
+hibernate updating database sctructure with new indexes
+hibernate many-to-many association with the same entity
+hibernate question on sessions
+hibernate foreign key
+delete entity that map with another entity
+hibernate n+1 from select across multiple tables
+run code in hibernate filters
+retrieving and loading third level refferenced classes through hql
+hibernate how to create createalias left join?
+hibernate lazy initlaization exception
+hibernate session error
+on-demand eager loading
+problem with mapping tag in hibernate configuration file
+is there a way to define reusable properties to n-hibernate mappings?
+tricky hibernate criteria
+cast function for hibernate
+hibernate hql: how to use a complex left join fetch
+hibernate post initialization
+hibernate subclass one to one mapping
+hibernate criteria api equivalent for "elements()"
+hibernate: persisting objects
+value object or entity object in my hibernate mapping?
+hibernate entity with user defined attributes
+hibernate: page results and know the result size
+hibernate interceptors : aftertransactioncompletion
+problem with sorting on child object in hibernate when order-by is present in .hbm files ?
+what does hibernate map a boolean datatype to when using an oracle database by default?
+print query string in hibernate with parameter values
+how to define an inverse cascade delete on a many-to-one mapping in hibernate
+how do i implement tostring() in a class that is mapped with hibernate?
+is there any way to observe change in database table throught hibernate?
+hibernate causing too many time_wait connections
+hibernate query with fetch question
+using annotations to implement a static join in hibernate
+hibernate - changing connection string during runtime
+connecitnf to ms sql through hibernate
+hibernate + spring + persist one-to-one relation + empty foreign key
+is this possible in hibernate 3.2
+hibernate encoding
+invalidmappingexception  hibernate mapping file...anybody can you give resolution
+how to get hibernate configuration properties?
+hibernate map collection with constant key
+what are annotations in hibernate?
+hibernate: outofmemoryerror persisting blob when printing log message
+what happens if hibernate_sequences table is accidentally reset?
+hql with a collection in the where clause
+multiple @manytomany sets from one join table
+delete hibernate entity without (attempting to) delete association table (view) entry
+using hibernate criteria api to query many-to-one relationships with projections
+many-to-many jpa mapping inserting but not fething the child collections
+generate hibernate mapping files (*.hbm.xml) from pojos?
+hibernate: order by using criteria api
+hibernate free query
+hibernate ehcache only finding 1 element of a collection
+how to reuse existing connection in open session in view pattern implementation of hibernate?
+hibernate query vs criteria performance
+hibernate - apply locks to parent tables in polymorphic queries
+getting list in order, mapped by join table
+hibernate queries slow down drastically after an entity is loaded in the session
+hibernate saveorupdate fails when i execute it on empty table.
+hibernate mapping conditional many-to-one
+hibernate jpa template fetch
+hibernate     @generatedvalue  correct?
+hibernate transaction question
+searching object property in a predefined list using hql
+@range based hibernate validation checks
+preventing nan from being persisted by hibernate
+criteria to hql
+get criteria by associationpath
+seqential & continuous invoice number in hibernate / coldfusion orm?
+understanding hibernate internals
+hibernate and flyweight
+hibernate delayed validation until commit
+hibernate, aliases
+hibernate select..where.. in (value1, val2...)
+hibernate hql and date
+hibernate, insert or update without select.
+understanding hibernate first level cache
+first level hibernate cache , modify record directly at db
+changing the inheritance strategy in branches of the class hierarchy via jpa annotations
+hbm2ddl on a column based on genericenumusertype
+how can i use a .hbm.xml file as input in hbmtemplate for maven?
+modelling a temporal-style relational table in hibernate
+many-to-many on the same table with additional columns
+workarounds for unresolved hibernate bug when embedded collections contain collections?
+cannot do 2nd level cache
+hibernate problems with auto increment id mysql 5
+using outer joins in hql queries
+schema2ddl generates wrong datatype for yesnotype
+hibernate delete_orphan cascadetype not deleting orphans when collection set to null
+hibernate translation capabilities
+how to query a date in hql (hibernate) with joda time?
+hibernate: find duplicates
+spring hibernates session issue with http request
+org.hibernate.hibernateexception: no session currently bound to execution context
+hibernate3: self-referencing objects
+why are people continuing to use xml mapping files instead of annotations?
+how to create tinyint field in hibernate annotation
+hibernate mapping
+hibernate implicit entity restrictions
+hibernate one-to-one entity association with shared pk between 3 classes
+hibernate query: find equal objects
+hibernate session problem for transactions.
+hql : getting the primary key of an object.
+hibernate. big results and pagination
+mapping multi-level inheritance in hibernate with annotations
+grails dynamic database connections?
+hibernatetemplate composite key fetching value null
+cancel hibernate query
+connection hangs after time of inactivity
+hibernate : java application must be restarted for data to be realoaded.
+getting hibernate exception : org.hibernate.queryexception: could not resolve property
+breaking up a large hibernate class
+adding a enum as a class property in hbm.
+how to use junit and hibernate usefully?
+hibernate - manytoone - save - org.hibernate.transientobjectexception:
+search result was due to field in hibernate search
+how can i remove an item from a hashmap in hibernate ?
+hibernate hql query by using like operator
+hibernate cascade delete not working when removing element of recreated bean
+hibernate configuration xml
+how do you turn on a hibernate filter for a particular entity by default?
+using hibernate/jpa without relationships and avoiding multiple db calls
+hibernate collection handling  basics
+hibernate mapping collection by column
+embed hibernate hbm.xml mappings in jar
+hibernate displaytag big lists
+how to connect to mutiple databases in hibernate
+set hibernate root folder
+hibernate sort by properties inner bean ?
+hibernate and order by using column values
+hibernate, save the previous state of an object
+concurrency in hibernate
+how to map a one-to-many collection to a joined subclass when key is in the parent class
+how do i persist a java property of type object using hibernate?
+how to trasnform query?
+query on hibernate entity with user-type field
+[postgresql] how to map the type interval in hibernate ?
+hassle with hibernate and spring and dynamic proxies
+hibernate nullpointerexception in loader class
+hibernate - session monitor tool
+in hibernate, is there any difference between session.get() and session.load() besides how bad ids are handled?
+hibernate transaction problem
+hibernate lock wait timeout exceeded;
+is there a way in hibernate to set not-null to true on save but not delete in a mapping config?
+hibernate search querying ?
+hibernate - projection a component
+hibernate 2nd level cache objects that are lazy=false, result in a default fetch=join, is it documented anywhere?
+why hibernate session.close() does not flushes the data automatically?
+hibernate - component mapping vs custom value type
+hibernate creates problem for table with composite primary key while generating hibernate classes with eclipse
+entitymanager.merge inserts duplicate entities
+hibernate - delete hql in eclipse hibernate tool
+hibernate/jpa/hsqldb enum issues...
+are hibernate and rdlc alternatives to each other?
+two mappings for one database table
+using hibernate 2nd level cache or query cache for lazy fetch queries
+storage of auditable fields per entity
+hibernate query cache - for objects not in the 2nd level cache - risky? usefull? bad practice?
+@primarykeyjoincolumn with bidirectional @onetoone relationship
+not able to save composite foreign key
+special driver to connect to sql server 2008 express
+want each call to save to commit
+string value is truncating when saved to the database
+hibernate auto increment id
+how to simple add an object to a collection in hibernate from client
+hibernate criteria: eagerly load manytomany collection
+limit associated entities loaded through a hibernate criteria
+why does hibernate not force you to mark fields as virtual, but nhibernate does?
+how to set query to be read uncommitedd?
+before calling session.gettransaction, do i have to ensure one exists?
+hibernate list operation question
+using hibernate to 'order by' a column which having a expression(sum, max, ...)?
+hibernate, mysql views and hibernate.hbm2ddl.auto = validate
+hibernate, gwt and gilead: sessions, transactions and caches
+hibernate::map maping
+does hibernate 2nd-level cache invalidate when running a jpql update statement
+hibernate creates two primary keys when i only want one...
+how to get a distinct result, but return another column in the select?
+many-to-many mapping not working, one side is set to inverse.
+unit of work in a java 'main' application
+hibernate session keeping track of objects
+add a group by to a hibernate criteria-query without projection
+can we use union in hibernate
+if hibernate can generate the db schema, how to tell it to create a column of nvarchar(max)?
+hibernate - uniqueresult silently fails
+ids not available from proxy object
+hibernate: when to use getsession() and when to use getcurrentsession()?
+hibernate query taking very long time
+hibernate validation and spring 3.x
+hibernate one-to-many cascade efficiency
+mapping hibernate "custom" subclasses
+hibernate validator error - 4.0.2.ga
+lazy loading...
+hibernate resolve foreign key lookup id by name
+how to sort through an association table in hibernate?
+please help me with mysql slow query analysis.
+jpa hibernate: how to prevent join on retrieving?
+hibernate search api with 2 tables
+hibernate clear collection with all-delete-orphan and then add to it causes constraintviolationexception
+hibernate and unexpected end of subtree exception
+elegant way to handle upsert with hibernate and mysql
+group by month with criteria in hibernate
+hibernate connection pool
+swarmcache hiberanate configuration
+how to execute sql-script file using hibernate?
+hibernate mappingexception unknown entity: $proxy2
+can't stop hibernate from writing log to console (log4j.properties is ok)
+illegalargumentexception: argument type mismatch in hibernate
+setting up nhprof for hibernate
+manytomany assoicate delete join table entry
+is it possible to load an object, it transient state from the get go?
+recipe for upgrading jboss 5.x hibernate to 3.5.x?
+best way to update some fields of a detached object on hibernate?
+save blob to db using hibernate
+hibernate: check if object exists/changed
+hiberate save-update listener and ascertaining field changes
+hibernate inheritance search
+why is it recommended to avoid unidirectional one-to-many association on a foreign key?
+is it a missing implementation with jpa implementation of hibernate??
+hibernate doesn't work anymore... why?
+@onetomany without inverse relationship and without a join table?
+hibernate: how to remove an entity to which noone refers to in manytoone?
+hibernate mysql transaction configuration issue
+use two databases concurrently in hibernate
+hibernate  : how to configure the flush after every rw-d operation ?
+is possible to set validation order with hibernate validator?
+hibernate query that orders an attribute based on a nested path.
+hibernate multi user environment
+is it possible to have foreign key enforced without object-to-object mapping
+persisting large files with hibernate annotations
+issue persisting long strings with hibernate
+hibernate - hbm.xml automatic generation from db schema
+queries with hibernate
+add new entity to persisted collection
+hibernate:  foreign key is primate key
+controlling hibernate's generated subselect
+how to validate hibernate mapping against database
+hibernate: constraintname is null in mysql
+does hibernate auto-rollback programmatic transaction for unhandled exceptions?
+hibernate: how to set null query-parameter value with hql?
+strategies for designing a database (being accessed by hibernate) which will have alot of archivial data.
+terracotta with hibernate and ehcache
+hibernate not creating correct fields for clobs in mysql
+hibernate many to one delets all parents when a child is deleted
+hibernate - how to cascade deletes using annotations where only unidirectional child relationship is specified
+hibernate: how to setup on-delete="cascade" in one-to-one relation
+hibernate: how to exclude a class which is part of a join using the criteria api
+hibernate bi-directional many-to-many cascade confusion
+how to setup hibernate @manytomany association with cascades on both foreign keys?
+converting a hql-query which includes elements() to criteria api
+criteria query with restriction across a joined subclass problem
+what does ga means in hibernate versions?
+spring + hibernate : a different object with the same identifier value was already associated with the session
+differerence between hibernate types: boolean, yes_no, true_false
+how does the new keyword in hql work?
+hibernate query not returning full object
+how to define usertype' s name globally in hibernate?
+spring  hibernatedaosupport keep the same session ?
+count(*)  in hibernate criteria ?
+why delete-orphan needs "cascade all" to run in jpa/hibernate ?
+get children count via hql
+spring-hibernate dao naming convention?
+hibernate query with conditions in a complex db structure
+hibernate (jpa) cascade - retrieve id from child
+hibernate annotation for postgresql serial type
+save more than object with the same identifier into a database in the same session????????
+nullpointerexception on merge()
+hibernate: why @onetomany with list<myclass> fails?
+hibernate composite primary key contains a composite foreign key, how to map this..
+hibernate hql: get count of results without actually returning them
+hibernate, null values and nativesql
+hibernate - query caching/second level cache does not work by value object containing subitems
+spring hibernate query help
+hibernate -using table per subclass - how to link an existing superclass object to a sibclass object
+what should be in a two days hibernate training
+(lazy) left outer join using the hibernate criteria api
+optimizing an orm-based model post-launch
+hibernate criteria: left outer join with restrictions on both tables
+typesafe primary key in hibernate/jpa
+some help with hibernate criteria query
+hibernate convert proxy to real object
+hibernate + postgresql with case insensitive searching
+audit trail in hibernate with new and old values using an interceptor
+image upload problem
+hibernate filters break the second level cache
+stack overflow whilst cascade saving nhibernate entity with custom generator
+hibernate: enabling lazy fetching in criteria api
+using hibernate to do a query involving two tables
+hibernate computed criteria order
+nhibernate multiple component properties of the same type in a class
+hibernate hbm2ddl and ms sql server: long as column of numeric data type
+is it possible to create indices on join table using hibernate annotations and hbm2ddl?
+designing objects for hibernate
+when does retrieving a hibernate proxy's id initialize the proxy?
+hibernate mapping through another entity
+hibernate 2nd level cache + ehcache issue when trying to get data (list of object) from cache memory
+spring  hibernatedaosupport : lazy-loading problem ?
+hibernate one-to-one mapping problem.
+how to map these classes with hibernate?
+why this simple hibernate sample doesn't work?
+outofmemory when reading big amounts of data using hibernate.
+hibernate sequence weirdness with db2
+in nhibernate, map 4 similar columns to list<string>
+hibernate  reference column in table to indicate how to unmarshall an attribute in a different column in the same table
+how to configure hibernate 3.3 in eclipse galileo?
+[hibernate]relation many-to-many with attributes : how ?
+hibernate criteria and multiple join
+hibernate lazy loading + jersey rest = eager loading?
+hibernate annotation + aspectj -> attributes names pbs in hql
+get hibernate transaction status
+best way to override hibernate's lazy loading in this instance.
+hibernate: more than one relationship using the same join column
+hibernate criteria api and scalar subqueries
+"select ... for update" not working for hibernate and mysql
+hibernate many-to-many mapping and cascade=delete
+hibernate optimistic locking with lazy onetoone associations
+help with foreign key mapping in hibernate (spring)?
+how to export "autonumber" field from one database to another using hibernate?
+override of an hibernate validator annotation ?
+nhibernate fires sql commands
+prevent the same object from being associated to two different sessions in hibernate
+recover hibernate session state after a failed insert
+java spring-hibernate mapping question?
+using restrictions.disjunction over @jointable association
+constraint error in hibernate
+how to use second level cache for lazy loaded collections in hibernate?
+persistence.xml ignores hibernate and chooses datanucleus
+use of insert and update attributes
+hibernate tool for weblogic 9.2.1
+confusions in hibernate mappings
+hibernate for ontologies?
+hibernate and ehcache replication
+error in hibernate constraint
+how to use hibernate full text search
+how do i create a hibernate criteria to order by some properties of collection
+handling hibernate unsupportedoperationexception: can't write to a readonly object
+hibernate hql with interfaces
+hibernate composite key
+not able to delete
+object references an unsaved transient instance - save the transient instance before flushing
+hibernate and netbeans application
+taking advantage of hibernate lazy loading?
+composite id in hibernate+postgres breaks due to returned column order
+error in creating alias in formula tag
+ignore hibernate @where annotation
+problem in using indexes with sql server 2005 and hibernate
+hibernate  -gett the size of a list in a property
+projections.count() and projections.countdistinct() both result in the same query
+how do i query for objects with a value in a string collection using hibernate criteria?
+how do i embed a string array into an entity (jpa)
+no mapping for longvarchar in hibernate 3.2
+mapping two tables 0..n in hibernate
+how to validate database schema programmatically in hibernate with annotations?
+how to force hibernate 3.3 or 3.5 to use cglib instead of javassist?
+"cascading" a hibernate entity listener?
+hibernate, instrumentation and delete cascade order
+hibernate: transaction not successfully started (threaded webapp) problem!!
+hibernate casts bigdecimal instead of integer
+hibernate: many-to-one using formula
+hibernate map mapping problem
+how can i turn off the majority of hbm2ddl's output in the console in ant?
+hibernate fetchmode joine
+obtaining a new session from hibernate for a background thread.
+with hibernate, an interceptor receives the same collection object as current and previous, how do i get real current and previous values?
+hibernate - staleobjectstateexception in query possible?
+hibernate parent-child modeling
+is it possible to get the sql alias of a join table for a hibernate sqlrestriction?
+hibernate running random queries.
+hibernate, mysql, glassfish v3, and jta datasource
+how to join tables in unidirectional many-to-one condition ?
+value of 0 in hibernate indexcolumn mapped with base=1
+how much overhead do frameworks like hibernate bring?
+ordering results by computed value in hibernate
+remove dinamically an ordering to the result set in org.hibernate.criteria
+how to implement lazy loading in hibernate
+passing parameter to hbm2ddl
+define name query in orm.xml with jpa and hibernate
+hibernate update does not update anything
+hibernate session is closed
+fetch last record in mysql
+hibernate.properties classpath conflict
+how do i left join tables in unidirectional many-to-one in hibernate?
+hibernate tool to create basic mappings based on a mysql db
+generating a swing/gui from hibernate
+hibernate session not getting created.
+having an issue with org.hibernate.sessionexception: session is closed! in hibernate
+effective entity update in hibernate ?
+passing jdbc url from maven to hibernate.cfg.xml
+hibernate - how to map an enumset
+getting my webapp to be database agnostic with hibernate...
+using hibernate validator with jpa and spring
+hibernate - avoiding unnecessary join when using foreign key in where close
+hibernate best approach for one java class and multiple tables?
+a maven2 mojo that uses hibernate: how to control logging?
+hibernate subclass which has multiple discriminator values
+using a hibernate mapkey that's not unique within a table
+hibernate database connection configuration
+best practice to return a result flag after saveorupdate in hibernate ?
+hibernate: parent/child relationship in a single-table
+why use hibernate/nhibernate?
+is there a way to combine streaming data retrieval with hibernate?
+how to specify connection release modes in hibernate?
+null pointer exception at org.hibernate.tuple.abstractentitytuplizer.createproxy
+hibernate criteria query on association
+how can you remove a criterion from a criteria?
+hibernate - one design problem
+how to point to other table's id with hibernate?
+hibernate - problem in parsing mapping file (.hbm.xml)
+hibernate: hibernate.hbm2ddl.auto=update show generated sql
+hibernate - ehcache - which region to cache associations/sets/collections ??
+optional parameters with named query in hibernate?
+how can this be done with (n)hibernate?
+hibernate - why use many-to-one to represent a one-to-one?
+hql multiple updates. is there a better way?
+how to make query on a property from a joined table in hibernate using criteria
+custom entitynotfounddelegate
+nhibernate hql sql server 2005 / 2008 containstable
+in hibernate how do i always use db server's timestamp?
+hibernate orm for a view
+tips for resolving hibernate/jpa entitynotfoundexception
+turn off hibernate logs for certain query
+hibernate persist order
